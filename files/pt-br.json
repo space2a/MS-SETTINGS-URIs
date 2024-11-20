@@ -1,0 +1,806 @@
+{
+  "ms-settings:workplace": {
+    "Category": "Contas",
+    "Page": "Acesso corporativo ou de estudante"
+  },
+  "ms-settings:emailandaccounts": {
+    "Category": "Contas",
+    "Page": "Contas de email e aplicativos"
+  },
+  "ms-settings:otherusers": {
+    "Category": "Contas",
+    "Page": "Família e outras pessoas"
+  },
+  "ms-settings:assignedaccess": {
+    "Category": "Contas",
+    "Page": "Configurar um quiosque"
+  },
+  "ms-settings:signinoptions": {
+    "Category": "Contas",
+    "Page": "Opções de entrada"
+  },
+  "ms-settings:sync": {
+    "Category": "Contas",
+    "Page": "Sincronizar configurações"
+  },
+  "ms-settings:signinoptions-launchfaceenrollment": {
+    "Category": "Contas",
+    "Page": "Instalação do Windows Hello"
+  },
+  "ms-settings:yourinfo": {
+    "Category": "Contas",
+    "Page": "Suas informações"
+  },
+  "ms-settings:appsfeatures": {
+    "Category": "Aplicativos",
+    "Page": "Aplicativos e Recursos"
+  },
+  "ms-settings:appsfeatures-app": {
+    "Category": "Aplicativos",
+    "Page": "Recursos do aplicativo"
+  },
+  "ms-settings:appsforwebsites": {
+    "Category": "Aplicativos",
+    "Page": "Aplicativos para sites"
+  },
+  "ms-settings:defaultapps": {
+    "Category": "Aplicativos",
+    "Page": "Aplicativos padrão"
+  },
+  "ms-settings:defaultbrowsersettings": {
+    "Category": "Aplicativos",
+    "Page": "Configurações padrão do navegador"
+  },
+  "ms-settings:optionalfeatures": {
+    "Category": "Aplicativos",
+    "Page": "Gerenciar recursos opcionais"
+  },
+  "ms-settings:maps": {
+    "Category": "Aplicativos",
+    "Page": "Mapas offline"
+  },
+  "ms-settings:startupapps": {
+    "Category": "Aplicativos",
+    "Page": "Aplicativos de inicialização"
+  },
+  "ms-settings:videoplayback": {
+    "Category": "Aplicativos",
+    "Page": "Reprodução de vídeo"
+  },
+  "ms-settings:controlcenter": {
+    "Category": "Centro de Controle",
+    "Page": "Centro de controle"
+  },
+  "ms-settings:cortana-notifications": {
+    "Category": "Cortana",
+    "Page": "Cortana em meus dispositivos"
+  },
+  "ms-settings:cortana-moredetails": {
+    "Category": "Cortana",
+    "Page": "Mais detalhes"
+  },
+  "ms-settings:cortana-permissions": {
+    "Category": "Cortana",
+    "Page": "Permissões e histórico"
+  },
+  "ms-settings:cortana-windowssearch": {
+    "Category": "Cortana",
+    "Page": "Pesquisas no Windows"
+  },
+  "ms-settings:cortana-language": {
+    "Category": "Cortana",
+    "Page": "Conversas com a Cortana"
+  },
+  "ms-settings:autoplay": {
+    "Category": "Dispositivos",
+    "Page": "Reproduzir automaticamente"
+  },
+  "ms-settings:bluetooth": {
+    "Category": "Dispositivos",
+    "Page": "Bluetooth"
+  },
+  "ms-settings:connecteddevices": {
+    "Category": "Dispositivos",
+    "Page": "Dispositivos conectados"
+  },
+  "ms-settings:camera": {
+    "Category": "Dispositivos",
+    "Page": "Configurações da câmera"
+  },
+  "ms-settings:mousetouchpad": {
+    "Category": "Dispositivos",
+    "Page": "Mouse e touchpad"
+  },
+  "ms-settings:pen": {
+    "Category": "Dispositivos",
+    "Page": "Caneta e Windows Ink"
+  },
+  "ms-settings:printers": {
+    "Category": "Dispositivos",
+    "Page": "Impressoras e scanners"
+  },
+  "ms-settings:devices-touch": {
+    "Category": "Dispositivos",
+    "Page": "Tocar"
+  },
+  "ms-settings:devices-touchpad": {
+    "Category": "Dispositivos",
+    "Page": "Touchpad"
+  },
+  "ms-settings:devicestyping-hwkbtextsuggestions": {
+    "Category": "Dispositivos",
+    "Page": "Sugestões de textos"
+  },
+  "ms-settings:typing": {
+    "Category": "Dispositivos",
+    "Page": "Digitação"
+  },
+  "ms-settings:usb": {
+    "Category": "Dispositivos",
+    "Page": "USB"
+  },
+  "ms-settings:wheel": {
+    "Category": "Dispositivos",
+    "Page": "Wheel"
+  },
+  "ms-settings:mobile-devices": {
+    "Category": "Telefone",
+    "Page": "Seu Telefone"
+  },
+  "ms-settings:easeofaccess-audio": {
+    "Category": "Facilidade de acesso",
+    "Page": "Áudio"
+  },
+  "ms-settings:easeofaccess-closedcaptioning": {
+    "Category": "Facilidade de acesso",
+    "Page": "Legendas ocultas"
+  },
+  "ms-settings:easeofaccess-colorfilter": {
+    "Category": "Facilidade de acesso",
+    "Page": "Filtros de cores"
+  },
+  "ms-settings:easeofaccess-display": {
+    "Category": "Facilidade de acesso",
+    "Page": "Exibição"
+  },
+  "ms-settings:easeofaccess-eyecontrol": {
+    "Category": "Facilidade de acesso",
+    "Page": "Controle com os olhos"
+  },
+  "ms-settings:fonts": {
+    "Category": "Facilidade de acesso",
+    "Page": "Fontes"
+  },
+  "ms-settings:easeofaccess-highcontrast": {
+    "Category": "Facilidade de acesso",
+    "Page": "Alto contraste"
+  },
+  "ms-settings:easeofaccess-keyboard": {
+    "Category": "Facilidade de acesso",
+    "Page": "Teclado"
+  },
+  "ms-settings:easeofaccess-magnifier": {
+    "Category": "Facilidade de acesso",
+    "Page": "Lupa"
+  },
+  "ms-settings:easeofaccess-mouse": {
+    "Category": "Facilidade de acesso",
+    "Page": "Mouse"
+  },
+  "ms-settings:easeofaccess-mousepointer": {
+    "Category": "Facilidade de acesso",
+    "Page": "Ponteiro do mouse e touch"
+  },
+  "ms-settings:easeofaccess-narrator": {
+    "Category": "Facilidade de acesso",
+    "Page": "Narrator"
+  },
+  "ms-settings:easeofaccess-speechrecognition": {
+    "Category": "Facilidade de acesso",
+    "Page": "Fala"
+  },
+  "ms-settings:easeofaccess-cursor": {
+    "Category": "Facilidade de acesso",
+    "Page": "Cursor de texto"
+  },
+  "ms-settings:easeofaccess-visualeffects": {
+    "Category": "Facilidade de acesso",
+    "Page": "Efeitos Visuais"
+  },
+  "ms-settings:extras": {
+    "Category": "Extras",
+    "Page": "Extras"
+  },
+  "ms-settings:family-group": {
+    "Category": "Grupo Familiar",
+    "Page": "Grupo Familiar"
+  },
+  "ms-settings:gaming-gamebar": {
+    "Category": "Jogos",
+    "Page": "Barra de jogo"
+  },
+  "ms-settings:gaming-gamedvr": {
+    "Category": "Jogos",
+    "Page": "DVR de Jogos"
+  },
+  "ms-settings:gaming-gamemode": {
+    "Category": "Jogos",
+    "Page": "Modo de Jogo"
+  },
+  "ms-settings:quietmomentsgame": {
+    "Category": "Jogos",
+    "Page": "Como jogar um jogo em tela cheia"
+  },
+  "ms-settings:gaming-trueplay": {
+    "Category": "Jogos",
+    "Page": "TruePlay"
+  },
+  "ms-settings:holographic-audio": {
+    "Category": "Jogos",
+    "Page": "Fala e áudio"
+  },
+  "ms-settings:privacy-holographic-environment": {
+    "Category": "Jogos",
+    "Page": "Ambiente"
+  },
+  "ms-settings:holographic-headset": {
+    "Category": "Jogos",
+    "Page": "Exibição do headset"
+  },
+  "ms-settings:holographic-management": {
+    "Category": "Jogos",
+    "Page": "Desinstalar"
+  },
+  "ms-settings:holographic-startupandesktop": {
+    "Category": "Jogos",
+    "Page": "Inicialização e área de trabalho"
+  },
+  "ms-settings:network-status": {
+    "Category": "Rede e Internet",
+    "Page": "Rede e Internet"
+  },
+  "ms-settings:network-advancedsettings": {
+    "Category": "Rede e Internet",
+    "Page": "Configurações avançadas"
+  },
+  "ms-settings:network-airplanemode": {
+    "Category": "Rede e Internet",
+    "Page": "Modo avião"
+  },
+  "ms-settings:network-cellular": {
+    "Category": "Rede e Internet",
+    "Page": "Rede Celular e SIM"
+  },
+  "ms-settings:network-dialup": {
+    "Category": "Rede e Internet",
+    "Page": "Rede de conexão discada"
+  },
+  "ms-settings:network-directaccess": {
+    "Category": "Rede e Internet",
+    "Page": "DirectAccess"
+  },
+  "ms-settings:network-ethernet": {
+    "Category": "Rede e Internet",
+    "Page": "Ethernet"
+  },
+  "ms-settings:network-wifisettings": {
+    "Category": "Rede e Internet",
+    "Page": "Gerenciar redes conhecidas"
+  },
+  "ms-settings:network-mobilehotspot": {
+    "Category": "Rede e Internet",
+    "Page": "Hotspot móvel"
+  },
+  "ms-settings:network-proxy": {
+    "Category": "Rede e Internet",
+    "Page": "Proxy"
+  },
+  "ms-settings:network-vpn": {
+    "Category": "Rede e Internet",
+    "Page": "VPN"
+  },
+  "ms-settings:network-wifi": {
+    "Category": "Rede e Internet",
+    "Page": "Wi-Fi"
+  },
+  "ms-settings:wifi-provisioning": {
+    "Category": "Rede e Internet",
+    "Page": "Provisionamento de Wi-Fi"
+  },
+  "ms-settings:personalization-background": {
+    "Category": "Personalização",
+    "Page": "Tela de fundo"
+  },
+  "ms-settings:personalization-start-places": {
+    "Category": "Personalização",
+    "Page": "Seleção de quais pastas aparecem em Iniciar"
+  },
+  "ms-settings:personalization-colors": {
+    "Category": "Personalização",
+    "Page": "Cores"
+  },
+  "ms-settings:personalização-textoinput-copilot-hardwarekey": {
+    "Category": "Personalização",
+    "Page": "Personalize a tecla Copilot no teclado"
+  },
+  "configurações": {
+    "Category": "Som",
+    "Page": "Saída de áudio padrão"
+  },
+  "ms-settings:personalization-glance": {
+    "Category": "Personalização",
+    "Page": "Glance"
+  },
+  "ms-settings:lockscreen": {
+    "Category": "Personalização",
+    "Page": "Tela de bloqueio"
+  },
+  "ms-settings:personalization-navbar": {
+    "Category": "Personalização",
+    "Page": "Barra de navegação"
+  },
+  "ms-settings:personalization": {
+    "Category": "Personalização",
+    "Page": "Personalização "
+  },
+  "ms-settings:personalization-start": {
+    "Category": "Personalização",
+    "Page": "Iniciar"
+  },
+  "ms-settings:taskbar": {
+    "Category": "Sistema",
+    "Page": "Barra de tarefas"
+  },
+  "ms-settings:personalização-textinput": {
+    "Category": "Personalização",
+    "Page": "Entrada de texto"
+  },
+  "ms-settings:personalization-touchkeyboard": {
+    "Category": "Personalização",
+    "Page": "Teclado virtual"
+  },
+  "ms-settings:themes": {
+    "Category": "Personalização",
+    "Page": "Temas"
+  },
+  "ms-settings:deviceusage": {
+    "Category": "Telefone",
+    "Page": "Uso do Dispositivo"
+  },
+  "ms-settings:privacy-accessoryapps": {
+    "Category": "Privacidade",
+    "Page": "Aplicativos para acessórios"
+  },
+  "ms-settings:privacy-accountinfo": {
+    "Category": "Privacidade",
+    "Page": "Informações da conta"
+  },
+  "ms-settings:privacy-activityhistory": {
+    "Category": "Privacidade",
+    "Page": "Histórico de atividade"
+  },
+  "ms-settings:privacy-advertisingid": {
+    "Category": "Privacidade",
+    "Page": "ID da Publicidade"
+  },
+  "ms-settings:privacy-appdiagnostics": {
+    "Category": "Privacidade",
+    "Page": "Diagnóstico do aplicativo"
+  },
+  "ms-settings:privacy-automaticfiledownloads": {
+    "Category": "Privacidade",
+    "Page": "Downloads automáticos de arquivos"
+  },
+  "ms-settings:privacy-backgroundapps": {
+    "Category": "Privacidade",
+    "Page": "Aplicativos em Segundo Plano"
+  },
+  "ms-settings:privacy-backgroundspatialperception": {
+    "Category": "Privacidade",
+    "Page": "Percepção espacial em segundo plano"
+  },
+  "ms-settings:privacy-calendar": {
+    "Category": "Privacidade",
+    "Page": "Calendário"
+  },
+  "ms-settings:privacy-callhistory": {
+    "Category": "Privacidade",
+    "Page": "Histórico de chamadas"
+  },
+  "ms-settings:privacy-webcam": {
+    "Category": "Privacidade",
+    "Page": "Câmera"
+  },
+  "ms-settings:privacy-contacts": {
+    "Category": "Privacidade",
+    "Page": "Contatos"
+  },
+  "ms-settings:privacy-documents": {
+    "Category": "Privacidade",
+    "Page": "Documentos"
+  },
+  "ms-settings:privacy-downloadsfolder": {
+    "Category": "Privacidade",
+    "Page": "Pasta de downloads"
+  },
+  "ms-settings:privacy-email": {
+    "Category": "Privacidade",
+    "Page": "Email"
+  },
+  "ms-settings:privacy-eyetracker": {
+    "Category": "Privacidade",
+    "Page": "Rastreamento ocular"
+  },
+  "ms-settings:privacy-feedback": {
+    "Category": "Privacidade",
+    "Page": "Feedback e diagnóstico"
+  },
+  "ms-settings:privacy-broadfilesystemaccess": {
+    "Category": "Privacidade",
+    "Page": "Sistema de arquivos"
+  },
+  "ms-settings:privacy": {
+    "Category": "Privacidade",
+    "Page": "Geral"
+  },
+  "ms-settings:privacy-graphicscaptureprogrammatic": {
+    "Category": "Privacidade",
+    "Page": "Gráficos"
+  },
+  "ms-settings:privacy-speechtyping": {
+    "Category": "Privacidade",
+    "Page": "Escrita à tinta e digitação"
+  },
+  "ms-settings:privacy-location": {
+    "Category": "Privacidade",
+    "Page": "Localidade"
+  },
+  "ms-settings:privacy-messaging": {
+    "Category": "Privacidade",
+    "Page": "Mensagens"
+  },
+  "ms-settings:privacy-microphone": {
+    "Category": "Privacidade",
+    "Page": "Microfone"
+  },
+  "ms-settings:privacy-motion": {
+    "Category": "Privacidade",
+    "Page": "Movimento"
+  },
+  "ms-settings:privacy-musiclibrary": {
+    "Category": "Privacidade",
+    "Page": "Biblioteca de Músicas"
+  },
+  "ms-settings:privacy-notifications": {
+    "Category": "Privacidade",
+    "Page": "Notificações"
+  },
+  "ms-settings:privacy-customdevices": {
+    "Category": "Privacidade",
+    "Page": "Outros dispositivos"
+  },
+  "ms-settings:privacy-phonecalls": {
+    "Category": "Privacidade",
+    "Page": "Telefonemas"
+  },
+  "ms-settings:privacy-pictures": {
+    "Category": "Privacidade",
+    "Page": "Imagens"
+  },
+  "ms-settings:privacy-radios": {
+    "Category": "Privacidade",
+    "Page": "Rádios"
+  },
+  "ms-settings:privacy-speech": {
+    "Category": "Privacidade",
+    "Page": "Fala"
+  },
+  "ms-settings:privacy-tasks": {
+    "Category": "Privacidade",
+    "Page": "Tarefas"
+  },
+  "ms-settings:privacy-videos": {
+    "Category": "Privacidade",
+    "Page": "Vídeos"
+  },
+  "ms-settings:privacy-voiceactivation": {
+    "Category": "Privacidade",
+    "Page": "Ativação por serviço de voz"
+  },
+  "ms-settings:search": {
+    "Category": "Pesquisar",
+    "Page": "Pesquisar"
+  },
+  "ms-settings:search-moredetails": {
+    "Category": "Pesquisar",
+    "Page": "Pesquisas de mais detalhes"
+  },
+  "ms-settings:search-permissions": {
+    "Category": "Pesquisar",
+    "Page": "Permissões de pesquisas"
+  },
+  "ms-settings:volume": {
+    "Category": "Som",
+    "Page": "Misturador de volume"
+  },
+  "ms-settings:sound": {
+    "Category": "Som",
+    "Page": "Som"
+  },
+  "ms-settings:sound-devices": {
+    "Category": "Som",
+    "Page": "Dispositivos de som"
+  },
+  "ms-settings:sound-properties?endpointId={0.0.0.00000000}.": {
+    "Category": "Som",
+    "Page": "Propriedades do dispositivo de áudio"
+  },
+  "ms-settings:propriedades": {
+    "Category": "Som",
+    "Page": "Propriedades do dispositivo de áudio"
+  },
+  "ms-settings:surfacehub-accounts": {
+    "Category": "Surface Hub",
+    "Page": "Contas"
+  },
+  "ms-settings:surfacehub-sessioncleanup": {
+    "Category": "Surface Hub",
+    "Page": "Limpeza de sessão"
+  },
+  "ms-settings:surfacehub-calling": {
+    "Category": "Surface Hub",
+    "Page": "Conferência em equipe"
+  },
+  "ms-settings:surfacehub-devicemanagement": {
+    "Category": "Surface Hub",
+    "Page": "Gerenciamento de dispositivos em equipe"
+  },
+  "ms-settings:surfacehub-welcome": {
+    "Category": "Surface Hub",
+    "Page": "Tela de boas-vindas"
+  },
+  "ms-settings:about": {
+    "Category": "Sistema",
+    "Page": "Sobre"
+  },
+  "ms-settings:display-advanced": {
+    "Category": "Sistema",
+    "Page": "Configurações de exibição avançadas"
+  },
+  "ms-settings:batterysaver": {
+    "Category": "Sistema",
+    "Page": "Economia de Bateria"
+  },
+  "ms-settings:batterysaver-settings": {
+    "Category": "Sistema",
+    "Page": "Configurações de Economia de Bateria"
+  },
+  "ms-settings:batterysaver-usagedetails": {
+    "Category": "Sistema",
+    "Page": "Uso da bateria"
+  },
+  "ms-settings:clipboard": {
+    "Category": "Sistema",
+    "Page": "Área de transferência"
+  },
+  "ms-settings:display": {
+    "Category": "Sistema",
+    "Page": "Exibição"
+  },
+  "ms-settings:savelocations": {
+    "Category": "Sistema",
+    "Page": "Localizações de salvamento padrão"
+  },
+  "ms-settings:screenrotation": {
+    "Category": "Sistema",
+    "Page": "Exibição"
+  },
+  "ms-settings:quietmomentspresentation": {
+    "Category": "Sistema",
+    "Page": "Duplicação da minha exibição"
+  },
+  "ms-settings:quietmomentsscheduled": {
+    "Category": "Sistema",
+    "Page": "Durante essas horas"
+  },
+  "ms-settings:deviceencryption": {
+    "Category": "Sistema",
+    "Page": "Criptografia"
+  },
+  "ms-settings:energyrecommendations": {
+    "Category": "Sistema",
+    "Page": "Recomendações energéticas"
+  },
+  "ms-settings:quiethours": {
+    "Category": "Sistema",
+    "Page": "Assistente de foco"
+  },
+  "ms-settings:display-advancedgraphics": {
+    "Category": "Sistema",
+    "Page": "Configurações de gráficos"
+  },
+  "ms-settings:display-advancedgraphics-default": {
+    "Category": "Sistema",
+    "Page": "Configurações de gráficos padrão"
+  },
+  "ms-settings:multitasking": {
+    "Category": "Sistema",
+    "Page": "Multitarefa"
+  },
+  "ms-settings:nightlight": {
+    "Category": "Sistema",
+    "Page": "Configurações de luz noturna"
+  },
+  "ms-settings:project": {
+    "Category": "Sistema",
+    "Page": "Projetando neste computador"
+  },
+  "ms-settings:crossdevice": {
+    "Category": "Sistema",
+    "Page": "Experiências compartilhadas"
+  },
+  "ms-settings:tabletmode": {
+    "Category": "Sistema",
+    "Page": "Modo tablet"
+  },
+  "ms-settings:notifications": {
+    "Category": "Sistema",
+    "Page": "Notificações e ações"
+  },
+  "ms-settings:remotedesktop": {
+    "Category": "Sistema",
+    "Page": "Área de Trabalho Remota"
+  },
+  "ms-settings:phone": {
+    "Category": "Sistema",
+    "Page": "Telefone"
+  },
+  "ms-settings:powersleep": {
+    "Category": "Sistema",
+    "Page": "Energia e suspensão"
+  },
+  "ms-settings:presence": {
+    "Category": "Sistema",
+    "Page": "Detecção de presença"
+  },
+  "ms-settings:storagesense": {
+    "Category": "Sistema",
+    "Page": "Armazenamento"
+  },
+  "ms-settings:storagepolicies": {
+    "Category": "Sistema",
+    "Page": "Sensor de armazenamento"
+  },
+  "ms-settings:storagerecommendations": {
+    "Category": "Sistema",
+    "Page": "Recomendações de armazenamento"
+  },
+  "ms-settings:disksandvolumes": {
+    "Category": "Sistema",
+    "Page": "Discos e volumes"
+  },
+  "ms-settings:dateandtime": {
+    "Category": "Horário e idioma",
+    "Page": "Data e hora"
+  },
+  "ms-settings:regionlanguage-jpnime": {
+    "Category": "Horário e idioma",
+    "Page": "Configurações do IME para o Japão"
+  },
+  "ms-settings:regionformatting": {
+    "Category": "Horário e idioma",
+    "Page": "Region"
+  },
+  "ms-settings:keyboard": {
+    "Category": "Horário e idioma",
+    "Page": "Idioma"
+  },
+  "ms-settings:regionlanguage-chsime-pinyin": {
+    "Category": "Horário e idioma",
+    "Page": "Configurações do IME para Pinyin"
+  },
+  "ms-settings:speech": {
+    "Category": "Horário e idioma",
+    "Page": "Fala"
+  },
+  "ms-settings:regionlanguage-chsime-wubi": {
+    "Category": "Horário e idioma",
+    "Page": "Configurações do IME para Wubi"
+  },
+  "ms-settings:regionlanguage-adddisplaylanguage": {
+    "Category": "Horário e idioma",
+    "Page": "Adicionar idioma"
+  },
+  "ms-settings:regionlanguage-languageoptions": {
+    "Category": "Horário e idioma",
+    "Page": "Opções de idioma"
+  },
+  "ms-settings:regionlanguage-setdisplaylanguage": {
+    "Category": "Horário e idioma",
+    "Page": "Definir idioma"
+  },
+  "ms-settings:activation": {
+    "Category": "Atualização e segurança",
+    "Page": "Ativação"
+  },
+  "ms-settings:backup": {
+    "Category": "Atualização e segurança",
+    "Page": "Backup"
+  },
+  "ms-settings:delivery-optimization": {
+    "Category": "Atualização e segurança",
+    "Page": "Otimização de Entrega"
+  },
+  "ms-settings:findmydevice": {
+    "Category": "Atualização e segurança",
+    "Page": "Localizar Meu Dispositivo"
+  },
+  "ms-settings:developers": {
+    "Category": "Atualização e segurança",
+    "Page": "Para desenvolvedores"
+  },
+  "ms-settings:recovery": {
+    "Category": "Atualização e segurança",
+    "Page": "Recuperação"
+  },
+  "ms-settings:signinoptions-launchsecuritykeyenrollment": {
+    "Category": "Atualização e segurança",
+    "Page": "Iniciar o registro de chave de segurança"
+  },
+  "ms-settings:troubleshoot": {
+    "Category": "Atualização e segurança",
+    "Page": "Solucionar problemas"
+  },
+  "ms-settings:windowsdefender": {
+    "Category": "Atualização e segurança",
+    "Page": "Segurança do Windows"
+  },
+  "ms-settings:windowsinsider": {
+    "Category": "Atualização e segurança",
+    "Page": "Programa Windows Insider"
+  },
+  "ms-settings:windowsupdate": {
+    "Category": "Atualização e segurança",
+    "Page": "Windows Update"
+  },
+  "ms-settings:windowsupdate-activehours": {
+    "Category": "Atualização e segurança",
+    "Page": "Horário ativo do Windows Update"
+  },
+  "ms-settings:windowsupdate-options": {
+    "Category": "Atualização e segurança",
+    "Page": "Opções avançadas do Windows Update"
+  },
+  "ms-settings:windowsupdate-optionalupdates": {
+    "Category": "Atualização e segurança",
+    "Page": "Atualizações opcionais do Windows Update"
+  },
+  "ms-settings:windowsupdate-restartoptions": {
+    "Category": "Atualização e segurança",
+    "Page": "Opções de reinicialização do Windows Update"
+  },
+  "ms-settings:windowsupdate-seekerondemand": {
+    "Category": "Atualização e segurança",
+    "Page": "Pesquisador do Windows Update sob demanda"
+  },
+  "ms-settings:windowsupdate-history": {
+    "Category": "Atualização e segurança",
+    "Page": "Exibição do histórico de atualização do Windows Update"
+  },
+  "ms-settings:workplace-provisioning": {
+    "Category": "Contas de usuário",
+    "Page": "Provisionamento"
+  },
+  "ms-settings:workplace-repairtoken": {
+    "Category": "Contas de usuário",
+    "Page": "Token de reparo"
+  },
+  "ms-settings:provisioning": {
+    "Category": "Contas de usuário",
+    "Page": "Provisionamento"
+  },
+  "ms-settings:windowsanywhere": {
+    "Category": "Contas de usuário",
+    "Page": "Windows Anywhere"
+  }
+}

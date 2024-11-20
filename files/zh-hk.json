@@ -1,0 +1,814 @@
+{
+  "ms-settings:workplace": {
+    "Category": "帳戶",
+    "Page": "存取公司或學校資源"
+  },
+  "ms-settings:emailandaccounts": {
+    "Category": "帳戶",
+    "Page": "電子郵件 & 帳戶"
+  },
+  "ms-settings:otherusers": {
+    "Category": "帳戶",
+    "Page": "家庭 & 其他人"
+  },
+  "ms-settings:assignedaccess": {
+    "Category": "帳戶",
+    "Page": "設定 Kiosk"
+  },
+  "ms-settings:signinoptions": {
+    "Category": "帳戶",
+    "Page": "登入選項"
+  },
+  "ms-settings:sync": {
+    "Category": "帳戶",
+    "Page": "同步您的設定"
+  },
+  "ms-settings:signinoptions-launchfaceenrollment": {
+    "Category": "帳戶",
+    "Page": "Windows Hello 設定"
+  },
+  "ms-settings:yourinfo": {
+    "Category": "帳戶",
+    "Page": "您的資訊"
+  },
+  "ms-settings:appsfeatures": {
+    "Category": "應用程式",
+    "Page": "應用程式 & 功能"
+  },
+  "ms-settings:appsfeatures-app": {
+    "Category": "應用程式",
+    "Page": "應用程式功能"
+  },
+  "ms-settings:appsforwebsites": {
+    "Category": "應用程式",
+    "Page": "適用於網站的 App"
+  },
+  "ms-settings:defaultapps": {
+    "Category": "應用程式",
+    "Page": "預設應用程式"
+  },
+  "ms-settings:defaultbrowsersettings": {
+    "Category": "應用程式",
+    "Page": "預設瀏覽器設定"
+  },
+  "ms-settings:optionalfeatures": {
+    "Category": "應用程式",
+    "Page": "管理選用功能"
+  },
+  "ms-settings:maps": {
+    "Category": "應用程式",
+    "Page": "離線地圖"
+  },
+  "ms-settings:startupapps": {
+    "Category": "應用程式",
+    "Page": "啟動應用程式"
+  },
+  "ms-settings:videoplayback": {
+    "Category": "應用程式",
+    "Page": "視訊播放"
+  },
+  "ms-settings:controlcenter": {
+    "Category": "控制中心",
+    "Page": "控制中心"
+  },
+  "ms-settings:cortana-notifications": {
+    "Category": "Cortana",
+    "Page": "跨裝置使用 Cortana"
+  },
+  "ms-settings:cortana-moredetails": {
+    "Category": "Cortana",
+    "Page": "更多詳細資料"
+  },
+  "ms-settings:cortana-permissions": {
+    "Category": "Cortana",
+    "Page": "許可權 & 歷程記錄"
+  },
+  "ms-settings:cortana-windowssearch": {
+    "Category": "Cortana",
+    "Page": "正在搜尋 Windows"
+  },
+  "ms-settings:cortana-language": {
+    "Category": "Cortana",
+    "Page": "與 Cortana 交談"
+  },
+  "ms-settings:autoplay": {
+    "Category": "裝置",
+    "Page": "AutoPlay"
+  },
+  "ms-settings:bluetooth": {
+    "Category": "裝置",
+    "Page": "Bluetooth"
+  },
+  "ms-settings:connecteddevices": {
+    "Category": "裝置",
+    "Page": "連線的裝置"
+  },
+  "ms-settings:camera": {
+    "Category": "裝置",
+    "Page": "相機設定"
+  },
+  "ms-settings:mousetouchpad": {
+    "Category": "裝置",
+    "Page": "滑鼠 & 觸控板"
+  },
+  "ms-settings:pen": {
+    "Category": "裝置",
+    "Page": "Pen & Windows Ink"
+  },
+  "ms-settings:printers": {
+    "Category": "裝置",
+    "Page": "印表機 & 掃描器"
+  },
+  "ms-settings:devices-touch": {
+    "Category": "裝置",
+    "Page": "觸控"
+  },
+  "ms-settings:devices-touchpad": {
+    "Category": "裝置",
+    "Page": "Touchpad"
+  },
+  "ms-settings:devicestyping-hwkbtextsuggestions": {
+    "Category": "裝置",
+    "Page": "文本建議"
+  },
+  "ms-settings:typing": {
+    "Category": "裝置",
+    "Page": "輸入"
+  },
+  "ms-settings:usb": {
+    "Category": "裝置",
+    "Page": "USB"
+  },
+  "ms-settings：wheel": {
+    "Category": "裝置",
+    "Page": "Wheel"
+  },
+  "ms-settings:mobile-devices": {
+    "Category": "電話",
+    "Page": "您的手機"
+  },
+  "ms-settings:easeofaccess-audio": {
+    "Category": "容易存取",
+    "Page": "音訊"
+  },
+  "ms-settings:easeofaccess-closedcaptioning": {
+    "Category": "容易存取",
+    "Page": "隱藏式輔助字幕"
+  },
+  "ms-settings:easeofaccess-colorfilter": {
+    "Category": "容易存取",
+    "Page": "色彩濾鏡"
+  },
+  "ms-settings:easeofaccess-display": {
+    "Category": "容易存取",
+    "Page": "顯示器"
+  },
+  "ms-settings:easeofaccess-eyecontrol": {
+    "Category": "容易存取",
+    "Page": "眼球控制"
+  },
+  "ms-settings:fonts": {
+    "Category": "容易存取",
+    "Page": "字型"
+  },
+  "ms-settings:easeofaccess-highcontrast": {
+    "Category": "容易存取",
+    "Page": "高對比"
+  },
+  "ms-settings:easeofaccess-keyboard": {
+    "Category": "容易存取",
+    "Page": "鍵盤"
+  },
+  "ms-settings:easeofaccess-magnifier": {
+    "Category": "容易存取",
+    "Page": "放大鏡"
+  },
+  "ms-settings:easeofaccess-mouse": {
+    "Category": "容易存取",
+    "Page": "滑鼠"
+  },
+  "ms-settings:easeofaccess-mousepointer": {
+    "Category": "容易存取",
+    "Page": "滑鼠指標 & 觸控"
+  },
+  "ms-settings:easeofaccess-narrator": {
+    "Category": "容易存取",
+    "Page": "朗讀程式"
+  },
+  "ms-settings:easeofaccess-speechrecognition": {
+    "Category": "容易存取",
+    "Page": "語音"
+  },
+  "ms-settings:easeofaccess-cursor": {
+    "Category": "容易存取",
+    "Page": "文字游標"
+  },
+  "ms-settings:easeofaccess-visualeffects": {
+    "Category": "容易存取",
+    "Page": "視覺效果"
+  },
+  "ms-settings：extras": {
+    "Category": "額外項目",
+    "Page": "額外項目"
+  },
+  "ms-settings:family-group": {
+    "Category": "家族群組",
+    "Page": "家族群組"
+  },
+  "ms-settings:gaming-gamebar": {
+    "Category": "遊戲",
+    "Page": "遊戲列"
+  },
+  "ms-settings:gaming-gamedvr": {
+    "Category": "遊戲",
+    "Page": "Game DVR"
+  },
+  "ms-settings:gaming-gamemode": {
+    "Category": "遊戲",
+    "Page": "遊戲模式"
+  },
+  "ms-settings:quietmomentsgame": {
+    "Category": "遊戲",
+    "Page": "全螢幕玩遊戲"
+  },
+  "ms-settings:gaming-trueplay": {
+    "Category": "遊戲",
+    "Page": "TruePlay"
+  },
+  "ms-settings:holographic-audio": {
+    "Category": "遊戲",
+    "Page": "語音和音訊"
+  },
+  "ms-settings:privacy-holographic-environment": {
+    "Category": "遊戲",
+    "Page": "Environment"
+  },
+  "ms-settings:holographic-headset": {
+    "Category": "遊戲",
+    "Page": "頭戴式裝置顯示器"
+  },
+  "ms-settings:holographic-management": {
+    "Category": "遊戲",
+    "Page": "解除安裝"
+  },
+  "ms-settings:holographic-startupandesktop": {
+    "Category": "遊戲",
+    "Page": "啟動和桌面"
+  },
+  "ms-settings:network-status": {
+    "Category": "網路和網際網路",
+    "Page": "網路 & 網際網路"
+  },
+  "ms-settings:network-advancedsettings": {
+    "Category": "網路和網際網路",
+    "Page": "進階設定"
+  },
+  "ms-settings:network-airplanemode": {
+    "Category": "網路和網際網路",
+    "Page": "飛航模式"
+  },
+  "ms-settings:network-cellular": {
+    "Category": "網路和網際網路",
+    "Page": "行動數據 & SIM"
+  },
+  "ms-settings:network-dialup": {
+    "Category": "網路和網際網路",
+    "Page": "撥號"
+  },
+  "ms-settings:network-directaccess": {
+    "Category": "網路和網際網路",
+    "Page": "DirectAccess"
+  },
+  "ms-settings:network-ethernet": {
+    "Category": "網路和網際網路",
+    "Page": "乙太網路"
+  },
+  "ms-settings:network-wifisettings": {
+    "Category": "網路和網際網路",
+    "Page": "管理已知的網路"
+  },
+  "ms-settings:network-mobilehotspot": {
+    "Category": "網路和網際網路",
+    "Page": "行動熱點"
+  },
+  "ms-settings:network-proxy": {
+    "Category": "網路和網際網路",
+    "Page": "Proxy"
+  },
+  "ms-settings:network-vpn": {
+    "Category": "網路和網際網路",
+    "Page": "VPN"
+  },
+  "ms-settings:network-wifi": {
+    "Category": "網路和網際網路",
+    "Page": "Wi-Fi"
+  },
+  "ms-settings:wifi-provisioning": {
+    "Category": "網路和網際網路",
+    "Page": "Wi-Fi 佈建"
+  },
+  "ms-settings:personalization-background": {
+    "Category": "個人化",
+    "Page": "背景"
+  },
+  "ms-settings:personalization-start-places": {
+    "Category": "個人化",
+    "Page": "選擇要顯示在開始上的資料夾"
+  },
+  "ms-settings:personalization-colors": {
+    "Category": "個人化",
+    "Page": "顏色"
+  },
+  "ms-settings：personalization-textinput-copilot-hardwarekey": {
+    "Category": "個人化",
+    "Page": "自訂鍵盤上的 Copilot 鍵"
+  },
+  "ms-settings：personalization-lighting": {
+    "Category": "個人化",
+    "Page": "動態光源"
+  },
+  "ms-settings:personalization-glance": {
+    "Category": "個人化",
+    "Page": "概覽"
+  },
+  "ms-settings:lockscreen": {
+    "Category": "個人化",
+    "Page": "鎖定畫面"
+  },
+  "ms-settings:personalization-navbar": {
+    "Category": "個人化",
+    "Page": "導覽列"
+  },
+  "ms-settings:personalization": {
+    "Category": "個人化",
+    "Page": "個人化 "
+  },
+  "ms-settings:personalization-start": {
+    "Category": "個人化",
+    "Page": "啟動"
+  },
+  "ms-settings:taskbar": {
+    "Category": "系統",
+    "Page": "工作列"
+  },
+  "ms-settings：personalization-textinput": {
+    "Category": "個人化",
+    "Page": "文字輸入"
+  },
+  "ms-settings:personalization-touchkeyboard": {
+    "Category": "個人化",
+    "Page": "觸控式鍵盤"
+  },
+  "ms-settings:themes": {
+    "Category": "個人化",
+    "Page": "佈景主題"
+  },
+  "ms-settings:deviceusage": {
+    "Category": "電話",
+    "Page": "裝置使用方式"
+  },
+  "ms-settings:privacy-accessoryapps": {
+    "Category": "隱私權",
+    "Page": "配件專屬應用程式"
+  },
+  "ms-settings:privacy-accountinfo": {
+    "Category": "隱私權",
+    "Page": "帳戶資訊"
+  },
+  "ms-settings:privacy-activityhistory": {
+    "Category": "隱私權",
+    "Page": "活動記錄"
+  },
+  "ms-settings:privacy-advertisingid": {
+    "Category": "隱私權",
+    "Page": "廣告識別碼"
+  },
+  "ms-settings:privacy-appdiagnostics": {
+    "Category": "隱私權",
+    "Page": "應用程式診斷"
+  },
+  "ms-settings:privacy-automaticfiledownloads": {
+    "Category": "隱私權",
+    "Page": "自動下載檔案"
+  },
+  "ms-settings：privacy-backgroundapps": {
+    "Category": "隱私權",
+    "Page": "背景應用程式"
+  },
+  "ms-settings:privacy-backgroundspatialperception": {
+    "Category": "隱私權",
+    "Page": "背景空間感知"
+  },
+  "ms-settings:privacy-calendar": {
+    "Category": "隱私權",
+    "Page": "Calendar"
+  },
+  "ms-settings:privacy-callhistory": {
+    "Category": "隱私權",
+    "Page": "通話記錄"
+  },
+  "ms-settings:privacy-webcam": {
+    "Category": "隱私權",
+    "Page": "相機"
+  },
+  "ms-settings:privacy-contacts": {
+    "Category": "隱私權",
+    "Page": "連絡人"
+  },
+  "ms-settings:privacy-documents": {
+    "Category": "隱私權",
+    "Page": "文件​​"
+  },
+  "ms-settings:privacy-downloadsfolder": {
+    "Category": "隱私權",
+    "Page": "下載資料夾"
+  },
+  "ms-settings:privacy-email": {
+    "Category": "隱私權",
+    "Page": "電子郵件"
+  },
+  "ms-settings:privacy-eyetracker": {
+    "Category": "隱私權",
+    "Page": "眼動儀"
+  },
+  "ms-settings:privacy-feedback": {
+    "Category": "隱私權",
+    "Page": "診斷 & 意見反應"
+  },
+  "ms-settings:privacy-broadfilesystemaccess": {
+    "Category": "隱私權",
+    "Page": "檔案系統"
+  },
+  "ms-settings:privacy": {
+    "Category": "隱私權",
+    "Page": "一般"
+  },
+  "ms-settings:privacy-graphicscaptureprogrammatic": {
+    "Category": "隱私權",
+    "Page": "圖形"
+  },
+  "ms-settings:privacy-speechtyping": {
+    "Category": "隱私權",
+    "Page": "筆跡與鍵入"
+  },
+  "ms-settings:privacy-location": {
+    "Category": "隱私權",
+    "Page": "Location"
+  },
+  "ms-settings:privacy-messaging": {
+    "Category": "隱私權",
+    "Page": "傳訊"
+  },
+  "ms-settings:privacy-microphone": {
+    "Category": "隱私權",
+    "Page": "麥克風"
+  },
+  "ms-settings:privacy-motion": {
+    "Category": "隱私權",
+    "Page": "移動"
+  },
+  "ms-settings:privacy-musiclibrary": {
+    "Category": "隱私權",
+    "Page": "音樂媒體櫃"
+  },
+  "ms-settings:privacy-notifications": {
+    "Category": "隱私權",
+    "Page": "通知"
+  },
+  "ms-settings:privacy-customdevices": {
+    "Category": "隱私權",
+    "Page": "其他裝置"
+  },
+  "ms-settings:privacy-phonecalls": {
+    "Category": "隱私權",
+    "Page": "通話"
+  },
+  "ms-settings:privacy-pictures": {
+    "Category": "隱私權",
+    "Page": "圖片"
+  },
+  "ms-settings:privacy-radios": {
+    "Category": "隱私權",
+    "Page": "無線通訊"
+  },
+  "ms-settings:privacy-speech": {
+    "Category": "隱私權",
+    "Page": "語音"
+  },
+  "ms-settings:privacy-tasks": {
+    "Category": "隱私權",
+    "Page": "工作"
+  },
+  "ms-settings:privacy-videos": {
+    "Category": "隱私權",
+    "Page": "影片"
+  },
+  "ms-settings:privacy-voiceactivation": {
+    "Category": "隱私權",
+    "Page": "語音啟動"
+  },
+  "ms-settings:search": {
+    "Category": "搜尋",
+    "Page": "搜尋"
+  },
+  "ms-settings:search-moredetails": {
+    "Category": "搜尋",
+    "Page": "搜尋更多細節"
+  },
+  "ms-settings:search-permissions": {
+    "Category": "搜尋",
+    "Page": "搜尋權限"
+  },
+  "ms-settings：apps-volume": {
+    "Category": "音效",
+    "Page": "音量混音器"
+  },
+  "ms-settings:sound": {
+    "Category": "音效",
+    "Page": "音效"
+  },
+  "ms-settings:sound-devices": {
+    "Category": "音效",
+    "Page": "音效裝置"
+  },
+  "ms-settings：sound-defaultinputproperties": {
+    "Category": "音效",
+    "Page": "默認麥克風"
+  },
+  "ms-settings：sound-defaultoutputproperties": {
+    "Category": "音效",
+    "Page": "默認音訊輸出"
+  },
+  "ms-settings：sound-properties？endpointId={0.0.0.00000000}。{aaaaaaaa-0000-1111-2222-bbbbbbbb}": {
+    "Category": "音效",
+    "Page": "音訊裝置屬性"
+  },
+  "ms-settings：sound-properties？interfaceId=\\？\\SWD#MMDEVAPI#{3.0.0.00000003}。{bbbbbbbb-1111-2222-3333-cccc}#{cccc-2222-3333-4444-dd}": {
+    "Category": "音效",
+    "Page": "音訊裝置屬性"
+  },
+  "ms-settings:surfacehub-accounts": {
+    "Category": "Surface Hub",
+    "Page": "帳戶"
+  },
+  "ms-settings:surfacehub-sessioncleanup": {
+    "Category": "Surface Hub",
+    "Page": "工作階段清除"
+  },
+  "ms-settings:surfacehub-calling": {
+    "Category": "Surface Hub",
+    "Page": "小組會議"
+  },
+  "ms-settings:surfacehub-devicemanagement": {
+    "Category": "Surface Hub",
+    "Page": "小組裝置管理"
+  },
+  "ms-settings:surfacehub-welcome": {
+    "Category": "Surface Hub",
+    "Page": "歡迎使用畫面"
+  },
+  "ms-settings:about": {
+    "Category": "系統",
+    "Page": "關於"
+  },
+  "ms-settings:display-advanced": {
+    "Category": "系統",
+    "Page": "進階顯示設定"
+  },
+  "ms-settings:batterysaver": {
+    "Category": "系統",
+    "Page": "省電模式"
+  },
+  "ms-settings:batterysaver-settings": {
+    "Category": "系統",
+    "Page": "省電模式設定"
+  },
+  "ms-settings:batterysaver-usagedetails": {
+    "Category": "系統",
+    "Page": "電池使用"
+  },
+  "ms-settings:clipboard": {
+    "Category": "系統",
+    "Page": "剪貼簿"
+  },
+  "ms-settings:display": {
+    "Category": "系統",
+    "Page": "顯示器"
+  },
+  "ms-settings:savelocations": {
+    "Category": "系統",
+    "Page": "預設儲存位置"
+  },
+  "ms-settings:screenrotation": {
+    "Category": "系統",
+    "Page": "顯示器"
+  },
+  "ms-settings:quietmomentspresentation": {
+    "Category": "系統",
+    "Page": "正在複製我的顯示器"
+  },
+  "ms-settings:quietmomentsscheduled": {
+    "Category": "系統",
+    "Page": "在這段時間內"
+  },
+  "ms-settings:deviceencryption": {
+    "Category": "系統",
+    "Page": "加密"
+  },
+  "ms-settings：energyrecommendations": {
+    "Category": "系統",
+    "Page": "能源建議"
+  },
+  "ms-settings:quiethours": {
+    "Category": "系統",
+    "Page": "專注輔助"
+  },
+  "ms-settings:display-advancedgraphics": {
+    "Category": "系統",
+    "Page": "圖形設定"
+  },
+  "ms-settings:display-advancedgraphics-default": {
+    "Category": "系統",
+    "Page": "圖形預設設定"
+  },
+  "ms-settings:multitasking": {
+    "Category": "系統",
+    "Page": "多工"
+  },
+  "ms-settings:nightlight": {
+    "Category": "系統",
+    "Page": "夜間光線設定"
+  },
+  "ms-settings:project": {
+    "Category": "系統",
+    "Page": "投影到此電腦"
+  },
+  "ms-settings:crossdevice": {
+    "Category": "系統",
+    "Page": "共用體驗"
+  },
+  "ms-settings:tabletmode": {
+    "Category": "系統",
+    "Page": "平板電腦模式"
+  },
+  "ms-settings:notifications": {
+    "Category": "系統",
+    "Page": "通知與動作"
+  },
+  "ms-settings:remotedesktop": {
+    "Category": "系統",
+    "Page": "遠端桌面"
+  },
+  "ms-settings:phone": {
+    "Category": "系統",
+    "Page": "電話"
+  },
+  "ms-settings:powersleep": {
+    "Category": "系統",
+    "Page": "電源與睡眠"
+  },
+  "ms-settings:presence": {
+    "Category": "系統",
+    "Page": "人類存在感測"
+  },
+  "ms-settings:storagesense": {
+    "Category": "系統",
+    "Page": "儲存體"
+  },
+  "ms-settings:storagepolicies": {
+    "Category": "系統",
+    "Page": "儲存空間感知器"
+  },
+  "ms-settings:storagerecommendations": {
+    "Category": "系統",
+    "Page": "儲存體建議"
+  },
+  "ms-settings:disksandvolumes": {
+    "Category": "系統",
+    "Page": "磁碟 & 磁碟區"
+  },
+  "ms-settings:dateandtime": {
+    "Category": "時間和語言",
+    "Page": "日期與時間"
+  },
+  "ms-settings:regionlanguage-jpnime": {
+    "Category": "時間和語言",
+    "Page": "日本輸入法設定"
+  },
+  "ms-settings:regionformatting": {
+    "Category": "時間和語言",
+    "Page": "區域"
+  },
+  "ms-settings:keyboard": {
+    "Category": "時間和語言",
+    "Page": "語言"
+  },
+  "ms-settings:": {
+    "Category": "時間和語言",
+    "Page": "拼音 IME 設定"
+  },
+  "ms-settings:speech": {
+    "Category": "時間和語言",
+    "Page": "語音"
+  },
+  "ms-settings:regionlanguage-chsime-wubi": {
+    "Category": "時間和語言",
+    "Page": "五筆輸入法設定"
+  },
+  "ms-settings:regionlanguage-adddisplaylanguage": {
+    "Category": "時間和語言",
+    "Page": "新增顯示語言"
+  },
+  "ms-settings:regionlanguage-languageoptions": {
+    "Category": "時間和語言",
+    "Page": "語言選項"
+  },
+  "ms-settings:regionlanguage-setdisplaylanguage": {
+    "Category": "時間和語言",
+    "Page": "設定顯示語言"
+  },
+  "ms-settings:activation": {
+    "Category": "更新與安全性",
+    "Page": "啟用"
+  },
+  "ms-settings:backup": {
+    "Category": "更新與安全性",
+    "Page": "Backup"
+  },
+  "ms-settings:delivery-optimization": {
+    "Category": "更新與安全性",
+    "Page": "傳遞最佳化"
+  },
+  "ms-settings:findmydevice": {
+    "Category": "更新與安全性",
+    "Page": "尋找我的裝置"
+  },
+  "ms-settings:developers": {
+    "Category": "更新與安全性",
+    "Page": "開發人員適用"
+  },
+  "ms-settings:recovery": {
+    "Category": "更新與安全性",
+    "Page": "復原"
+  },
+  "ms-settings:signinoptions-launchsecuritykeyenrollment": {
+    "Category": "更新與安全性",
+    "Page": "啟動安全性金鑰註冊"
+  },
+  "ms-settings:troubleshoot": {
+    "Category": "更新與安全性",
+    "Page": "疑難排解"
+  },
+  "ms-settings:windowsdefender": {
+    "Category": "更新與安全性",
+    "Page": "Windows 安全性"
+  },
+  "ms-settings:windowsinsider": {
+    "Category": "更新與安全性",
+    "Page": "Windows 測試人員計畫"
+  },
+  "ms-settings:windowsupdate": {
+    "Category": "更新與安全性",
+    "Page": "Windows Update"
+  },
+  "ms-settings:windowsupdate-activehours": {
+    "Category": "更新與安全性",
+    "Page": "Windows Update-Active hours"
+  },
+  "ms-settings:windowsupdate-options": {
+    "Category": "更新與安全性",
+    "Page": "Windows Update - 進階選項"
+  },
+  "ms-settings:windowsupdate-optionalupdates": {
+    "Category": "更新與安全性",
+    "Page": "Windows Update-Optional updates"
+  },
+  "ms-settings:windowsupdate-restartoptions": {
+    "Category": "更新與安全性",
+    "Page": "Windows Update - 重新啟動選項"
+  },
+  "ms-settings:windowsupdate-seekerondemand": {
+    "Category": "更新與安全性",
+    "Page": "Windows Update-Seeker 按需"
+  },
+  "ms-settings:windowsupdate-history": {
+    "Category": "更新與安全性",
+    "Page": "Windows Update - 檢視更新歷程記錄"
+  },
+  "ms-settings:workplace-provisioning": {
+    "Category": "使用者帳戶",
+    "Page": "佈建"
+  },
+  "ms-settings:workplace-repairtoken": {
+    "Category": "使用者帳戶",
+    "Page": "修復權杖"
+  },
+  "ms-settings:provisioning": {
+    "Category": "使用者帳戶",
+    "Page": "佈建"
+  },
+  "ms-settings:windowsanywhere": {
+    "Category": "使用者帳戶",
+    "Page": "Windows 無所不在"
+  }
+}

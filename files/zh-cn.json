@@ -1,0 +1,814 @@
+{
+  "ms-settings:workplace": {
+    "Category": "帐户",
+    "Page": "访问工作单位或学校"
+  },
+  "ms-settings:emailandaccounts": {
+    "Category": "帐户",
+    "Page": "电子邮件和应用帐户"
+  },
+  "ms-settings:otherusers": {
+    "Category": "帐户",
+    "Page": "家人和其他人"
+  },
+  "ms-settings:assignedaccess": {
+    "Category": "帐户",
+    "Page": "设置展台"
+  },
+  "ms-settings:signinoptions": {
+    "Category": "帐户",
+    "Page": "登录选项"
+  },
+  "ms-settings:sync": {
+    "Category": "帐户",
+    "Page": "同步你的设置"
+  },
+  "ms-settings:signinoptions-launchfaceenrollment": {
+    "Category": "帐户",
+    "Page": "Windows Hello 设置"
+  },
+  "ms-settings:yourinfo": {
+    "Category": "帐户",
+    "Page": "你的信息"
+  },
+  "ms-settings:appsfeatures": {
+    "Category": "应用",
+    "Page": "应用和功能"
+  },
+  "ms-settings:appsfeatures-app（应用的重置、管理加载项和可下载内容等）": {
+    "Category": "应用",
+    "Page": "应用功能"
+  },
+  "ms-settings:appsforwebsites": {
+    "Category": "应用",
+    "Page": "网站应用"
+  },
+  "ms-settings:defaultapps（": {
+    "Category": "应用",
+    "Page": "默认应用"
+  },
+  "ms-settings:defaultbrowsersettings（": {
+    "Category": "应用",
+    "Page": "默认浏览器设置"
+  },
+  "ms-settings:optionalfeatures": {
+    "Category": "应用",
+    "Page": "管理可选功能"
+  },
+  "ms-settings:maps": {
+    "Category": "应用",
+    "Page": "脱机地图"
+  },
+  "ms-settings:startupapps": {
+    "Category": "应用",
+    "Page": "启动应用"
+  },
+  "ms-settings:videoplayback": {
+    "Category": "应用",
+    "Page": "视频播放"
+  },
+  "ms-settings:controlcenter": {
+    "Category": "控制中心",
+    "Page": "控制中心"
+  },
+  "ms-settings:cortana-notifications": {
+    "Category": "Cortana",
+    "Page": "跨越我的设备使用 Cortana"
+  },
+  "ms-settings:cortana-moredetails": {
+    "Category": "Cortana",
+    "Page": "更多详细信息"
+  },
+  "ms-settings:cortana-permissions": {
+    "Category": "Cortana",
+    "Page": "权限和历史记录"
+  },
+  "ms-settings:cortana-windowssearch": {
+    "Category": "Cortana",
+    "Page": "搜索 Windows"
+  },
+  "ms-settings:cortana-language": {
+    "Category": "Cortana",
+    "Page": "与 Cortana 交谈"
+  },
+  "ms-settings:autoplay": {
+    "Category": "设备",
+    "Page": "自动播放"
+  },
+  "ms-settings:bluetooth": {
+    "Category": "设备",
+    "Page": "蓝牙"
+  },
+  "ms-settings:connecteddevices": {
+    "Category": "设备",
+    "Page": "连接的设备数"
+  },
+  "ms-settings:camera（已在": {
+    "Category": "设备",
+    "Page": "相机设置"
+  },
+  "ms-settings:mousetouchpad（仅在具有触控板的设备上可用的触控板设置）": {
+    "Category": "设备",
+    "Page": "鼠标和触摸板"
+  },
+  "ms-settings:pen": {
+    "Category": "设备",
+    "Page": "触控笔和 Windows Ink"
+  },
+  "ms-settings:printers": {
+    "Category": "设备",
+    "Page": "打印机和扫描仪"
+  },
+  "ms-settings:devices-touch": {
+    "Category": "设备",
+    "Page": "触控"
+  },
+  "ms-settings:devices-touchpad（仅当存在触控板硬件时才可用）": {
+    "Category": "设备",
+    "Page": "触摸板"
+  },
+  "ms-settings:devicestyping-hwkbtextsuggestions": {
+    "Category": "设备",
+    "Page": "文本建议"
+  },
+  "ms-settings:typing": {
+    "Category": "设备",
+    "Page": "Typing"
+  },
+  "ms-settings:usb": {
+    "Category": "设备",
+    "Page": "USB"
+  },
+  "ms-settings：wheel": {
+    "Category": "设备",
+    "Page": "滚轮"
+  },
+  "ms-settings:mobile-devices": {
+    "Category": "Phone",
+    "Page": "你的手机"
+  },
+  "ms-settings:easeofaccess-audio": {
+    "Category": "轻松访问",
+    "Page": "音频"
+  },
+  "ms-settings:easeofaccess-closedcaptioning": {
+    "Category": "轻松访问",
+    "Page": "隐藏式字幕"
+  },
+  "ms-settings:easeofaccess-colorfilter": {
+    "Category": "轻松访问",
+    "Page": "颜色筛选器"
+  },
+  "ms-settings:easeofaccess-display": {
+    "Category": "轻松访问",
+    "Page": "显示"
+  },
+  "ms-settings:easeofaccess-eyecontrol": {
+    "Category": "轻松访问",
+    "Page": "眼球控制"
+  },
+  "ms-settings:fonts": {
+    "Category": "轻松访问",
+    "Page": "字体"
+  },
+  "ms-settings:easeofaccess-highcontrast": {
+    "Category": "轻松访问",
+    "Page": "高对比度"
+  },
+  "ms-settings:easeofaccess-keyboard": {
+    "Category": "轻松访问",
+    "Page": "键盘"
+  },
+  "ms-settings:easeofaccess-magnifier": {
+    "Category": "轻松访问",
+    "Page": "放大镜"
+  },
+  "ms-settings:easeofaccess-mouse": {
+    "Category": "轻松访问",
+    "Page": "鼠标"
+  },
+  "ms-settings:easeofaccess-mousepointer": {
+    "Category": "轻松访问",
+    "Page": "鼠标指针和触控"
+  },
+  "ms-settings:easeofaccess-narrator": {
+    "Category": "轻松访问",
+    "Page": "讲述人"
+  },
+  "ms-settings:easeofaccess-speechrecognition": {
+    "Category": "轻松访问",
+    "Page": "语音"
+  },
+  "ms-settings:easeofaccess-cursor": {
+    "Category": "轻松访问",
+    "Page": "文本光标"
+  },
+  "ms-settings:easeofaccess-visualeffects": {
+    "Category": "轻松访问",
+    "Page": "视觉效果"
+  },
+  "ms-settings：extras（仅当已安装“设置应用”时才可用，例如由第三方安装）": {
+    "Category": "附加信息",
+    "Page": "附加信息"
+  },
+  "ms-settings:family-group": {
+    "Category": "家庭组",
+    "Page": "家庭组"
+  },
+  "ms-settings:gaming-gamebar": {
+    "Category": "游戏",
+    "Page": "游戏栏"
+  },
+  "ms-settings:gaming-gamedvr": {
+    "Category": "游戏",
+    "Page": "游戏 DVR"
+  },
+  "ms-settings:gaming-gamemode": {
+    "Category": "游戏",
+    "Page": "游戏模式"
+  },
+  "ms-settings:quietmomentsgame": {
+    "Category": "游戏",
+    "Page": "全屏玩游戏"
+  },
+  "ms-settings:gaming-trueplay（从": {
+    "Category": "游戏",
+    "Page": "TruePlay"
+  },
+  "ms-settings:holographic-audio": {
+    "Category": "游戏",
+    "Page": "音频和语音"
+  },
+  "ms-settings:privacy-holographic-environment": {
+    "Category": "游戏",
+    "Page": "环境"
+  },
+  "ms-settings:holographic-headset": {
+    "Category": "游戏",
+    "Page": "头戴显示设备显示"
+  },
+  "ms-settings:holographic-management": {
+    "Category": "游戏",
+    "Page": "卸载"
+  },
+  "ms-settings:holographic-startupandesktop": {
+    "Category": "游戏",
+    "Page": "启动和桌面"
+  },
+  "ms-settings:network-status": {
+    "Category": "网络和 Internet",
+    "Page": "网络和 Internet"
+  },
+  "ms-settings:network-advancedsettings": {
+    "Category": "网络和 Internet",
+    "Page": "高级设置"
+  },
+  "ms-settings:network-airplanemode": {
+    "Category": "网络和 Internet",
+    "Page": "飞行模式"
+  },
+  "ms-settings:network-cellular": {
+    "Category": "网络和 Internet",
+    "Page": "手机网络和 SIM 卡"
+  },
+  "ms-settings:network-dialup": {
+    "Category": "网络和 Internet",
+    "Page": "拨号"
+  },
+  "ms-settings:network-directaccess（仅在启用": {
+    "Category": "网络和 Internet",
+    "Page": "DirectAccess"
+  },
+  "ms-settings:network-ethernet": {
+    "Category": "网络和 Internet",
+    "Page": "以太网"
+  },
+  "ms-settings:network-wifisettings": {
+    "Category": "网络和 Internet",
+    "Page": "管理已知网络"
+  },
+  "ms-settings:network-mobilehotspot": {
+    "Category": "网络和 Internet",
+    "Page": "移动热点"
+  },
+  "ms-settings:network-proxy": {
+    "Category": "网络和 Internet",
+    "Page": "代理"
+  },
+  "ms-settings:network-vpn": {
+    "Category": "网络和 Internet",
+    "Page": "VPN"
+  },
+  "ms-settings:network-wifi（仅当设备具有": {
+    "Category": "网络和 Internet",
+    "Page": "WLAN"
+  },
+  "ms-settings:wifi-provisioning": {
+    "Category": "网络和 Internet",
+    "Page": "Wi-Fi 预配"
+  },
+  "ms-settings:personalization-background": {
+    "Category": "个性化",
+    "Page": "背景"
+  },
+  "ms-settings:personalization-start-places": {
+    "Category": "个性化",
+    "Page": "选择哪些文件夹显示于“开始”屏幕"
+  },
+  "ms-settings:personalization-colors": {
+    "Category": "个性化",
+    "Page": "颜色"
+  },
+  "ms-settings：personalization-textinput-copilot-hardwarekey": {
+    "Category": "个性化",
+    "Page": "自定义键盘上的 Copilot 键"
+  },
+  "ms-settings：personalization-lighting": {
+    "Category": "个性化",
+    "Page": "动态照明"
+  },
+  "ms-settings:personalization-glance（已在": {
+    "Category": "个性化",
+    "Page": "概览"
+  },
+  "ms-settings:lockscreen": {
+    "Category": "个性化",
+    "Page": "锁屏界面"
+  },
+  "ms-settings:personalization-navbar（已在": {
+    "Category": "个性化",
+    "Page": "导航栏"
+  },
+  "ms-settings:personalization": {
+    "Category": "个性化",
+    "Page": "个性化（类别）"
+  },
+  "ms-settings:personalization-start": {
+    "Category": "个性化",
+    "Page": "开始"
+  },
+  "ms-settings:taskbar": {
+    "Category": "系统",
+    "Page": "任务栏"
+  },
+  "ms-settings：personalization-textinput": {
+    "Category": "个性化",
+    "Page": "文本输入"
+  },
+  "ms-settings:personalization-touchkeyboard": {
+    "Category": "个性化",
+    "Page": "触摸键盘"
+  },
+  "ms-settings:themes": {
+    "Category": "个性化",
+    "Page": "主题"
+  },
+  "ms-settings:deviceusage": {
+    "Category": "Phone",
+    "Page": "设备使用情况"
+  },
+  "ms-settings:privacy-accessoryapps（已在": {
+    "Category": "隐私",
+    "Page": "附件应用"
+  },
+  "ms-settings:privacy-accountinfo": {
+    "Category": "隐私",
+    "Page": "帐户信息"
+  },
+  "ms-settings:privacy-activityhistory": {
+    "Category": "隐私",
+    "Page": "活动历史记录"
+  },
+  "ms-settings:privacy-advertisingid（已在": {
+    "Category": "隐私",
+    "Page": "广告 ID"
+  },
+  "ms-settings:privacy-appdiagnostics": {
+    "Category": "隐私",
+    "Page": "应用诊断"
+  },
+  "ms-settings:privacy-automaticfiledownloads": {
+    "Category": "隐私",
+    "Page": "自动文件下载"
+  },
+  "ms-settings:privacy-backgroundapps（已在": {
+    "Category": "隐私",
+    "Page": "后台应用"
+  },
+  "ms-settings:privacy-backgroundspatialperception": {
+    "Category": "隐私",
+    "Page": "后台空间感知"
+  },
+  "ms-settings:privacy-calendar": {
+    "Category": "隐私",
+    "Page": "日历"
+  },
+  "ms-settings:privacy-callhistory": {
+    "Category": "隐私",
+    "Page": "联络历史记录"
+  },
+  "ms-settings:privacy-webcam": {
+    "Category": "隐私",
+    "Page": "Camera"
+  },
+  "ms-settings:privacy-contacts": {
+    "Category": "隐私",
+    "Page": "联系人"
+  },
+  "ms-settings:privacy-documents": {
+    "Category": "隐私",
+    "Page": "文档"
+  },
+  "ms-settings:privacy-downloadsfolder": {
+    "Category": "隐私",
+    "Page": "“下载”文件夹"
+  },
+  "ms-settings:privacy-email": {
+    "Category": "隐私",
+    "Page": "电子邮件"
+  },
+  "ms-settings:privacy-eyetracker（需要眼动跟踪器硬件）": {
+    "Category": "隐私",
+    "Page": "眼动追踪仪"
+  },
+  "ms-settings:privacy-feedback": {
+    "Category": "隐私",
+    "Page": "反馈和诊断"
+  },
+  "ms-settings:privacy-broadfilesystemaccess": {
+    "Category": "隐私",
+    "Page": "文件系统"
+  },
+  "ms-settings:privacy": {
+    "Category": "隐私",
+    "Page": "常规"
+  },
+  "ms-settings:privacy-graphicscaptureprogrammatic": {
+    "Category": "隐私",
+    "Page": "图形"
+  },
+  "ms-settings:privacy-speechtyping": {
+    "Category": "隐私",
+    "Page": "墨迹书写和键入"
+  },
+  "ms-settings:privacy-location": {
+    "Category": "隐私",
+    "Page": "位置"
+  },
+  "ms-settings:privacy-messaging": {
+    "Category": "隐私",
+    "Page": "消息传送"
+  },
+  "ms-settings:privacy-microphone": {
+    "Category": "隐私",
+    "Page": "Microphone"
+  },
+  "ms-settings:privacy-motion": {
+    "Category": "隐私",
+    "Page": "动态效果"
+  },
+  "ms-settings:privacy-musiclibrary": {
+    "Category": "隐私",
+    "Page": "音乐库"
+  },
+  "ms-settings:privacy-notifications": {
+    "Category": "隐私",
+    "Page": "通知"
+  },
+  "ms-settings:privacy-customdevices": {
+    "Category": "隐私",
+    "Page": "其他设备"
+  },
+  "ms-settings:privacy-phonecalls": {
+    "Category": "隐私",
+    "Page": "电话联络"
+  },
+  "ms-settings:privacy-pictures": {
+    "Category": "隐私",
+    "Page": "图片"
+  },
+  "ms-settings:privacy-radios": {
+    "Category": "隐私",
+    "Page": "无线电收发器"
+  },
+  "ms-settings:privacy-speech": {
+    "Category": "隐私",
+    "Page": "语音"
+  },
+  "ms-settings:privacy-tasks": {
+    "Category": "隐私",
+    "Page": "任务"
+  },
+  "ms-settings:privacy-videos": {
+    "Category": "隐私",
+    "Page": "视频"
+  },
+  "ms-settings:privacy-voiceactivation": {
+    "Category": "隐私",
+    "Page": "语音激活"
+  },
+  "ms-settings:search": {
+    "Category": "Search",
+    "Page": "Search"
+  },
+  "ms-settings:search-moredetails": {
+    "Category": "Search",
+    "Page": "搜索更多详细信息"
+  },
+  "ms-settings:search-permissions": {
+    "Category": "Search",
+    "Page": "搜索权限"
+  },
+  "ms-settings：apps-volume": {
+    "Category": "声音",
+    "Page": "音量混音器"
+  },
+  "ms-settings:sound": {
+    "Category": "声音",
+    "Page": "声音"
+  },
+  "ms-settings:sound-devices": {
+    "Category": "声音",
+    "Page": "声音设备"
+  },
+  "ms-settings：sound-defaultinputproperties": {
+    "Category": "声音",
+    "Page": "默认麦克风"
+  },
+  "ms-settings：sound-defaultoutputproperties": {
+    "Category": "声音",
+    "Page": "默认音频输出"
+  },
+  "ms-settings：sound-properties？endpointId={0.0.0.00000000}。{aaaaaaaa-0000-1111-2222-bbbbbbbbbb}": {
+    "Category": "声音",
+    "Page": "音频设备属性"
+  },
+  "ms-settings：sound-properties？interfaceId=\\\\？\\SWD#MMDEVAPI#{3.0.0.00000003}。{bbbbbb-1111-2222-3333-cccccc}#{cccccccc-2222-3333-4444-ddd}": {
+    "Category": "声音",
+    "Page": "音频设备属性"
+  },
+  "ms-settings:surfacehub-accounts": {
+    "Category": "Surface Hub",
+    "Page": "帐户"
+  },
+  "ms-settings:surfacehub-sessioncleanup": {
+    "Category": "Surface Hub",
+    "Page": "会话清理"
+  },
+  "ms-settings:surfacehub-calling": {
+    "Category": "Surface Hub",
+    "Page": "团队会议"
+  },
+  "ms-settings:surfacehub-devicemanagement": {
+    "Category": "Surface Hub",
+    "Page": "设备管理团队"
+  },
+  "ms-settings:surfacehub-welcome": {
+    "Category": "Surface Hub",
+    "Page": "欢迎屏幕"
+  },
+  "ms-settings:about": {
+    "Category": "系统",
+    "Page": "关于"
+  },
+  "ms-settings:display-advanced（仅支持高级显示选项的设备可用）": {
+    "Category": "系统",
+    "Page": "高级显示设置"
+  },
+  "ms-settings:batterysaver（仅具有电池的设备可用，例如平板电脑）": {
+    "Category": "系统",
+    "Page": "节电模式"
+  },
+  "ms-settings:batterysaver-settings（仅具有电池的设备可用，例如平板电脑）": {
+    "Category": "系统",
+    "Page": "节电模式设置"
+  },
+  "ms-settings:batterysaver-usagedetails（仅具有电池的设备可用，例如平板电脑）": {
+    "Category": "系统",
+    "Page": "电池使用"
+  },
+  "ms-settings:clipboard": {
+    "Category": "系统",
+    "Page": "剪贴板"
+  },
+  "ms-settings:display": {
+    "Category": "系统",
+    "Page": "显示"
+  },
+  "ms-settings:savelocations": {
+    "Category": "系统",
+    "Page": "默认保存位置"
+  },
+  "ms-settings:screenrotation": {
+    "Category": "系统",
+    "Page": "显示"
+  },
+  "ms-settings:quietmomentspresentation": {
+    "Category": "系统",
+    "Page": "复制我的显示器"
+  },
+  "ms-settings:quietmomentsscheduled": {
+    "Category": "系统",
+    "Page": "在这些小时内"
+  },
+  "ms-settings:deviceencryption": {
+    "Category": "系统",
+    "Page": "加密"
+  },
+  "ms-settings：energyrecommendations": {
+    "Category": "系统",
+    "Page": "能源建议"
+  },
+  "ms-settings:quiethours": {
+    "Category": "系统",
+    "Page": "专注助手"
+  },
+  "ms-settings:display-advancedgraphics（仅支持高级图形选项的设备可用）": {
+    "Category": "系统",
+    "Page": "图形设置"
+  },
+  "ms-settings:display-advancedgraphics-default": {
+    "Category": "系统",
+    "Page": "图形默认设置"
+  },
+  "ms-settings:multitasking": {
+    "Category": "系统",
+    "Page": "多任务"
+  },
+  "ms-settings:nightlight": {
+    "Category": "系统",
+    "Page": "夜灯设置"
+  },
+  "ms-settings:project": {
+    "Category": "系统",
+    "Page": "投影到此电脑"
+  },
+  "ms-settings:crossdevice": {
+    "Category": "系统",
+    "Page": "共享体验"
+  },
+  "ms-settings:tabletmode（已在": {
+    "Category": "系统",
+    "Page": "平板模式"
+  },
+  "ms-settings:notifications": {
+    "Category": "系统",
+    "Page": "通知和操作"
+  },
+  "ms-settings:remotedesktop": {
+    "Category": "系统",
+    "Page": "远程桌面"
+  },
+  "ms-settings:phone（已在": {
+    "Category": "系统",
+    "Page": "Phone"
+  },
+  "ms-settings:powersleep": {
+    "Category": "系统",
+    "Page": "电源和睡眠"
+  },
+  "ms-settings:presence（已在适用于": {
+    "Category": "系统",
+    "Page": "存在感测"
+  },
+  "ms-settings:storagesense": {
+    "Category": "系统",
+    "Page": "存储"
+  },
+  "ms-settings:storagepolicies": {
+    "Category": "系统",
+    "Page": "存储感知"
+  },
+  "ms-settings:storagerecommendations": {
+    "Category": "系统",
+    "Page": "有关存储的建议"
+  },
+  "ms-settings:disksandvolumes": {
+    "Category": "系统",
+    "Page": "磁盘和卷"
+  },
+  "ms-settings:dateandtime": {
+    "Category": "时间和语言",
+    "Page": "日期和时间"
+  },
+  "ms-settings:regionlanguage-jpnime（安装了": {
+    "Category": "时间和语言",
+    "Page": "日本 IME 设置"
+  },
+  "ms-settings:regionformatting": {
+    "Category": "时间和语言",
+    "Page": "区域"
+  },
+  "ms-settings:keyboard": {
+    "Category": "时间和语言",
+    "Page": "语言"
+  },
+  "ms-settings:regionlanguage-chsime-pinyin（在安装了": {
+    "Category": "时间和语言",
+    "Page": "拼音 IME 设置"
+  },
+  "ms-settings:speech": {
+    "Category": "时间和语言",
+    "Page": "语音"
+  },
+  "ms-settings:regionlanguage-chsime-wubi（安装了": {
+    "Category": "时间和语言",
+    "Page": "五笔 IME 设置"
+  },
+  "ms-settings:regionlanguage-adddisplaylanguage": {
+    "Category": "时间和语言",
+    "Page": "添加显示语言"
+  },
+  "ms-settings:regionlanguage-languageoptions": {
+    "Category": "时间和语言",
+    "Page": "语言选项"
+  },
+  "ms-settings:regionlanguage-setdisplaylanguage": {
+    "Category": "时间和语言",
+    "Page": "设置显示语言"
+  },
+  "ms-settings:activation": {
+    "Category": "更新和安全",
+    "Page": "激活"
+  },
+  "ms-settings:backup（已在": {
+    "Category": "更新和安全",
+    "Page": "Backup"
+  },
+  "ms-settings:delivery-optimization": {
+    "Category": "更新和安全",
+    "Page": "传递优化"
+  },
+  "ms-settings:findmydevice": {
+    "Category": "更新和安全",
+    "Page": "查找我的设备"
+  },
+  "ms-settings:developers": {
+    "Category": "更新和安全",
+    "Page": "面向开发人员"
+  },
+  "ms-settings:recovery": {
+    "Category": "更新和安全",
+    "Page": "恢复"
+  },
+  "ms-settings:signinoptions-launchsecuritykeyenrollment": {
+    "Category": "更新和安全",
+    "Page": "启动安全密钥注册"
+  },
+  "ms-settings:troubleshoot": {
+    "Category": "更新和安全",
+    "Page": "疑难解答"
+  },
+  "ms-settings:windowsdefender": {
+    "Category": "更新和安全",
+    "Page": "Windows 安全性"
+  },
+  "ms-settings:windowsinsider（仅当用户在": {
+    "Category": "更新和安全",
+    "Page": "Windows 预览体验计划"
+  },
+  "ms-settings:windowsupdate": {
+    "Category": "更新和安全",
+    "Page": "Windows 更新"
+  },
+  "ms-settings:windowsupdate-activehours": {
+    "Category": "更新和安全",
+    "Page": "Windows 更新-活动小时数"
+  },
+  "ms-settings:windowsupdate-options": {
+    "Category": "更新和安全",
+    "Page": "Windows 更新-高级选项"
+  },
+  "ms-settings:windowsupdate-optionalupdates": {
+    "Category": "更新和安全",
+    "Page": "Windows 更新-可选更新"
+  },
+  "ms-settings:windowsupdate-restartoptions": {
+    "Category": "更新和安全",
+    "Page": "Windows 更新-重启选项"
+  },
+  "ms-settings:windowsupdate-seekerondemand": {
+    "Category": "更新和安全",
+    "Page": "Windows 更新-按需查找器"
+  },
+  "ms-settings:windowsupdate-history": {
+    "Category": "更新和安全",
+    "Page": "Windows 更新-查看更新历史记录"
+  },
+  "ms-settings:workplace-provisioning（仅当企业部署了预配程序包时才可用）": {
+    "Category": "用户帐户",
+    "Page": "预配"
+  },
+  "ms-settings:workplace-repairtoken": {
+    "Category": "用户帐户",
+    "Page": "修复令牌"
+  },
+  "ms-settings:provisioning（仅当移动设备上企业部署了预配程序包时才可用）": {
+    "Category": "用户帐户",
+    "Page": "预配"
+  },
+  "ms-settings:windowsanywhere（设备必须支持": {
+    "Category": "用户帐户",
+    "Page": "Windows Anywhere"
+  }
+}

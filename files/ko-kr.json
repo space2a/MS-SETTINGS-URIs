@@ -1,0 +1,814 @@
+{
+  "ms-settings:workplace": {
+    "Category": "계정",
+    "Page": "회사 또는 학교 액세스"
+  },
+  "ms-settings:emailandaccounts": {
+    "Category": "계정",
+    "Page": "이메일 & 앱 계정"
+  },
+  "ms-settings:otherusers": {
+    "Category": "계정",
+    "Page": "가족 & 다른 사용자"
+  },
+  "ms-settings:assignedaccess": {
+    "Category": "계정",
+    "Page": "키오스크 설정"
+  },
+  "ms-settings:signinoptions": {
+    "Category": "계정",
+    "Page": "로그인 옵션"
+  },
+  "ms-settings:sync": {
+    "Category": "계정",
+    "Page": "설정 동기화"
+  },
+  "ms-settings:signinoptions-launchfaceenrollment": {
+    "Category": "계정",
+    "Page": "Windows Hello 설정"
+  },
+  "ms-settings:yourinfo": {
+    "Category": "계정",
+    "Page": "사용자 정보"
+  },
+  "ms-settings:appsfeatures": {
+    "Category": "앱",
+    "Page": "앱 & 기능"
+  },
+  "ms-settings:appsfeatures-app": {
+    "Category": "앱",
+    "Page": "앱 기능"
+  },
+  "ms-settings:appsforwebsites": {
+    "Category": "앱",
+    "Page": "웹사이트용 앱"
+  },
+  "ms-settings:defaultapps": {
+    "Category": "앱",
+    "Page": "기본 앱"
+  },
+  "ms-settings:defaultbrowsersettings": {
+    "Category": "앱",
+    "Page": "기본 브라우저 설정"
+  },
+  "ms-settings:optionalfeatures": {
+    "Category": "앱",
+    "Page": "선택적 기능 관리"
+  },
+  "ms-settings:maps": {
+    "Category": "앱",
+    "Page": "오프라인 지도"
+  },
+  "ms-settings:startupapps": {
+    "Category": "앱",
+    "Page": "시작 앱"
+  },
+  "ms-settings:videoplayback": {
+    "Category": "앱",
+    "Page": "비디오 재생"
+  },
+  "ms-settings:controlcenter": {
+    "Category": "제어 센터",
+    "Page": "제어 센터"
+  },
+  "ms-settings:cortana-notifications": {
+    "Category": "Cortana",
+    "Page": "내 모든 디바이스의 Cortana"
+  },
+  "ms-settings:cortana-moredetails": {
+    "Category": "Cortana",
+    "Page": "자세한 정보"
+  },
+  "ms-settings:cortana-permissions": {
+    "Category": "Cortana",
+    "Page": "사용 권한 & 기록"
+  },
+  "ms-settings:cortana-windowssearch": {
+    "Category": "Cortana",
+    "Page": "Windows 검색"
+  },
+  "ms-settings:cortana-language": {
+    "Category": "Cortana",
+    "Page": "Cortana에 말하기"
+  },
+  "ms-settings:autoplay": {
+    "Category": "장치",
+    "Page": "AutoPlay"
+  },
+  "ms-settings:bluetooth": {
+    "Category": "장치",
+    "Page": "Bluetooth"
+  },
+  "ms-settings:connecteddevices": {
+    "Category": "장치",
+    "Page": "연결된 디바이스"
+  },
+  "ms-settings:camera": {
+    "Category": "장치",
+    "Page": "카메라 설정"
+  },
+  "ms-settings:mousetouchpad": {
+    "Category": "장치",
+    "Page": "마우스 & 터치 패드"
+  },
+  "ms-settings:pen": {
+    "Category": "장치",
+    "Page": "펜 & Windows Ink"
+  },
+  "ms-settings:printers": {
+    "Category": "장치",
+    "Page": "프린터 & 스캐너"
+  },
+  "ms-settings:devices-touch": {
+    "Category": "장치",
+    "Page": "터치"
+  },
+  "ms-settings:devices-touchpad": {
+    "Category": "장치",
+    "Page": "터치패드"
+  },
+  "ms-settings:devicestyping-hwkbtextsuggestions": {
+    "Category": "장치",
+    "Page": "텍스트 제안"
+  },
+  "ms-settings:typing": {
+    "Category": "장치",
+    "Page": "입력"
+  },
+  "ms-settings:usb": {
+    "Category": "장치",
+    "Page": "USB          "
+  },
+  "ms-settings:wheel": {
+    "Category": "장치",
+    "Page": "휠"
+  },
+  "ms-settings:mobile-devices": {
+    "Category": "휴대폰",
+    "Page": "사용자 전화"
+  },
+  "ms-settings:easeofaccess-audio": {
+    "Category": "간편한 액세스",
+    "Page": "오디오"
+  },
+  "ms-settings:easeofaccess-closedcaptioning": {
+    "Category": "간편한 액세스",
+    "Page": "폐쇄 자막"
+  },
+  "ms-settings:easeofaccess-colorfilter": {
+    "Category": "간편한 액세스",
+    "Page": "색 필터"
+  },
+  "ms-settings:easeofaccess-display": {
+    "Category": "간편한 액세스",
+    "Page": "표시"
+  },
+  "ms-settings:easeofaccess-eyecontrol": {
+    "Category": "간편한 액세스",
+    "Page": "아이 컨트롤"
+  },
+  "ms-settings:fonts": {
+    "Category": "간편한 액세스",
+    "Page": "Fonts"
+  },
+  "ms-settings:easeofaccess-highcontrast": {
+    "Category": "간편한 액세스",
+    "Page": "고대비"
+  },
+  "ms-settings:easeofaccess-keyboard": {
+    "Category": "간편한 액세스",
+    "Page": "Keyboard"
+  },
+  "ms-settings:easeofaccess-magnifier": {
+    "Category": "간편한 액세스",
+    "Page": "돋보기"
+  },
+  "ms-settings:easeofaccess-mouse": {
+    "Category": "간편한 액세스",
+    "Page": "마우스"
+  },
+  "ms-settings:easeofaccess-mousepointer": {
+    "Category": "간편한 액세스",
+    "Page": "마우스 포인터 & 터치"
+  },
+  "ms-settings:easeofaccess-narrator": {
+    "Category": "간편한 액세스",
+    "Page": "내레이터"
+  },
+  "ms-settings:easeofaccess-speechrecognition": {
+    "Category": "간편한 액세스",
+    "Page": "음성"
+  },
+  "ms-settings:easeofaccess-cursor": {
+    "Category": "간편한 액세스",
+    "Page": "텍스트 커서"
+  },
+  "ms-settings:easeofaccess-visualeffects": {
+    "Category": "간편한 액세스",
+    "Page": "시각 효과"
+  },
+  "ms-settings:extras": {
+    "Category": "Extras",
+    "Page": "Extras"
+  },
+  "ms-settings:family-group": {
+    "Category": "가족 그룹",
+    "Page": "가족 그룹"
+  },
+  "ms-settings:gaming-gamebar": {
+    "Category": "게임",
+    "Page": "게임 바"
+  },
+  "ms-settings:gaming-gamedvr": {
+    "Category": "게임",
+    "Page": "게임 DVR"
+  },
+  "ms-settings:gaming-gamemode": {
+    "Category": "게임",
+    "Page": "게임 모드"
+  },
+  "ms-settings:quietmomentsgame": {
+    "Category": "게임",
+    "Page": "게임 전체 화면 재생"
+  },
+  "ms-settings:gaming-trueplay": {
+    "Category": "게임",
+    "Page": "TruePlay"
+  },
+  "ms-settings:holographic-audio": {
+    "Category": "게임",
+    "Page": "오디오 및 음성"
+  },
+  "ms-settings:privacy-holographic-environment": {
+    "Category": "게임",
+    "Page": "Environment"
+  },
+  "ms-settings:holographic-headset": {
+    "Category": "게임",
+    "Page": "헤드셋 표시"
+  },
+  "ms-settings:holographic-management": {
+    "Category": "게임",
+    "Page": "제거"
+  },
+  "ms-settings:holographic-startupandesktop": {
+    "Category": "게임",
+    "Page": "시작 및 바탕 화면"
+  },
+  "ms-settings:network-status": {
+    "Category": "네트워크 및 인터넷",
+    "Page": "네트워크 & 인터넷"
+  },
+  "ms-settings:network-advancedsettings": {
+    "Category": "네트워크 및 인터넷",
+    "Page": "고급 설정"
+  },
+  "ms-settings:network-airplanemode": {
+    "Category": "네트워크 및 인터넷",
+    "Page": "비행기 모드"
+  },
+  "ms-settings:network-cellular": {
+    "Category": "네트워크 및 인터넷",
+    "Page": "셀룰러 & SIM"
+  },
+  "ms-settings:network-dialup": {
+    "Category": "네트워크 및 인터넷",
+    "Page": "전화걸기"
+  },
+  "ms-settings:network-directaccess": {
+    "Category": "네트워크 및 인터넷",
+    "Page": "직접 액세스"
+  },
+  "ms-settings:network-ethernet": {
+    "Category": "네트워크 및 인터넷",
+    "Page": "이더넷          "
+  },
+  "ms-settings:network-wifisettings": {
+    "Category": "네트워크 및 인터넷",
+    "Page": "알려진 네트워크 관리"
+  },
+  "ms-settings:network-mobilehotspot": {
+    "Category": "네트워크 및 인터넷",
+    "Page": "모바일 핫스팟"
+  },
+  "ms-settings:network-proxy": {
+    "Category": "네트워크 및 인터넷",
+    "Page": "프록시"
+  },
+  "ms-settings:network-vpn": {
+    "Category": "네트워크 및 인터넷",
+    "Page": "VPN"
+  },
+  "ms-settings:network-wifi": {
+    "Category": "네트워크 및 인터넷",
+    "Page": "Wi-Fi"
+  },
+  "ms-settings:wifi-provisioning": {
+    "Category": "네트워크 및 인터넷",
+    "Page": "Wi-Fi 프로비전"
+  },
+  "ms-settings:personalization-background": {
+    "Category": "개인 설정",
+    "Page": "배경"
+  },
+  "ms-settings:personalization-start-places": {
+    "Category": "개인 설정",
+    "Page": "시작 화면에 표시되는 폴더 선택"
+  },
+  "ms-settings:personalization-colors": {
+    "Category": "개인 설정",
+    "Page": "색"
+  },
+  "ms-settings:personalization-textinput-copilot-hardwarekey": {
+    "Category": "개인 설정",
+    "Page": "키보드에서 Copilot 키 사용자 지정"
+  },
+  "ms-settings:personalization-lighting": {
+    "Category": "개인 설정",
+    "Page": "동적 조명"
+  },
+  "ms-settings:personalization-glance": {
+    "Category": "개인 설정",
+    "Page": "한눈에 보기"
+  },
+  "ms-settings:lockscreen": {
+    "Category": "개인 설정",
+    "Page": "잠금 화면"
+  },
+  "ms-settings:personalization-navbar": {
+    "Category": "개인 설정",
+    "Page": "탐색 모음"
+  },
+  "ms-settings:personalization": {
+    "Category": "개인 설정",
+    "Page": "개인 설정"
+  },
+  "ms-settings:personalization-start": {
+    "Category": "개인 설정",
+    "Page": "Start"
+  },
+  "ms-settings:taskbar": {
+    "Category": "시스템",
+    "Page": "작업 표시줄"
+  },
+  "ms-settings:personalization-textinput": {
+    "Category": "개인 설정",
+    "Page": "문자 입력"
+  },
+  "ms-settings:personalization-touchkeyboard": {
+    "Category": "개인 설정",
+    "Page": "터치 키보드"
+  },
+  "ms-settings:themes": {
+    "Category": "개인 설정",
+    "Page": "테마"
+  },
+  "ms-settings:deviceusage": {
+    "Category": "휴대폰",
+    "Page": "디바이스 사용"
+  },
+  "ms-settings:privacy-accessoryapps": {
+    "Category": "개인 정보 보호",
+    "Page": "액세서리 앱"
+  },
+  "ms-settings:privacy-accountinfo": {
+    "Category": "개인 정보 보호",
+    "Page": "계정 정보"
+  },
+  "ms-settings:privacy-activityhistory": {
+    "Category": "개인 정보 보호",
+    "Page": "작업 기록"
+  },
+  "ms-settings:privacy-advertisingid": {
+    "Category": "개인 정보 보호",
+    "Page": "광고 ID"
+  },
+  "ms-settings:privacy-appdiagnostics": {
+    "Category": "개인 정보 보호",
+    "Page": "앱 진단"
+  },
+  "ms-settings:privacy-automaticfiledownloads": {
+    "Category": "개인 정보 보호",
+    "Page": "자동 파일 다운로드"
+  },
+  "ms-settings:privacy-backgroundapps": {
+    "Category": "개인 정보 보호",
+    "Page": "배경 앱"
+  },
+  "ms-settings:privacy-backgroundspatialperception": {
+    "Category": "개인 정보 보호",
+    "Page": "백그라운드 공간 인식"
+  },
+  "ms-settings:privacy-calendar": {
+    "Category": "개인 정보 보호",
+    "Page": "캘린더"
+  },
+  "ms-settings:privacy-callhistory": {
+    "Category": "개인 정보 보호",
+    "Page": "통화 기록"
+  },
+  "ms-settings:privacy-webcam": {
+    "Category": "개인 정보 보호",
+    "Page": "카메라"
+  },
+  "ms-settings:privacy-contacts": {
+    "Category": "개인 정보 보호",
+    "Page": "연락처"
+  },
+  "ms-settings:privacy-documents": {
+    "Category": "개인 정보 보호",
+    "Page": "문서"
+  },
+  "ms-settings:privacy-downloadsfolder": {
+    "Category": "개인 정보 보호",
+    "Page": "폴더 다운로드"
+  },
+  "ms-settings:privacy-email": {
+    "Category": "개인 정보 보호",
+    "Page": "전자 메일"
+  },
+  "ms-settings:privacy-eyetracker": {
+    "Category": "개인 정보 보호",
+    "Page": "시선 추적기"
+  },
+  "ms-settings:privacy-feedback": {
+    "Category": "개인 정보 보호",
+    "Page": "피드백 & 진단"
+  },
+  "ms-settings:privacy-broadfilesystemaccess": {
+    "Category": "개인 정보 보호",
+    "Page": "파일 시스템"
+  },
+  "ms-settings:privacy": {
+    "Category": "개인 정보 보호",
+    "Page": "일반"
+  },
+  "ms-settings:privacy-graphicscaptureprogrammatic": {
+    "Category": "개인 정보 보호",
+    "Page": "그래픽"
+  },
+  "ms-settings:privacy-speechtyping": {
+    "Category": "개인 정보 보호",
+    "Page": "수동 입력 및 입력"
+  },
+  "ms-settings:privacy-location": {
+    "Category": "개인 정보 보호",
+    "Page": "위치"
+  },
+  "ms-settings:privacy-messaging": {
+    "Category": "개인 정보 보호",
+    "Page": "메시징"
+  },
+  "ms-settings:privacy-microphone": {
+    "Category": "개인 정보 보호",
+    "Page": "마이크"
+  },
+  "ms-settings:privacy-motion": {
+    "Category": "개인 정보 보호",
+    "Page": "동작"
+  },
+  "ms-settings:privacy-musiclibrary": {
+    "Category": "개인 정보 보호",
+    "Page": "음악 라이브러리"
+  },
+  "ms-settings:privacy-notifications": {
+    "Category": "개인 정보 보호",
+    "Page": "Notifications"
+  },
+  "ms-settings:privacy-customdevices": {
+    "Category": "개인 정보 보호",
+    "Page": "기타 디바이스"
+  },
+  "ms-settings:privacy-phonecalls": {
+    "Category": "개인 정보 보호",
+    "Page": "전화 통화"
+  },
+  "ms-settings:privacy-pictures": {
+    "Category": "개인 정보 보호",
+    "Page": "사진"
+  },
+  "ms-settings:privacy-radios": {
+    "Category": "개인 정보 보호",
+    "Page": "무선"
+  },
+  "ms-settings:privacy-speech": {
+    "Category": "개인 정보 보호",
+    "Page": "음성"
+  },
+  "ms-settings:privacy-tasks": {
+    "Category": "개인 정보 보호",
+    "Page": "작업"
+  },
+  "ms-settings:privacy-videos": {
+    "Category": "개인 정보 보호",
+    "Page": "비디오"
+  },
+  "ms-settings:privacy-voiceactivation": {
+    "Category": "개인 정보 보호",
+    "Page": "음성 활성화"
+  },
+  "ms-settings:search": {
+    "Category": "검색",
+    "Page": "검색"
+  },
+  "ms-settings:search-moredetails": {
+    "Category": "검색",
+    "Page": "자세한 내용 검색"
+  },
+  "ms-settings:search-permissions": {
+    "Category": "검색",
+    "Page": "권한 검색"
+  },
+  "ms-settings:apps-volume": {
+    "Category": "소리",
+    "Page": "볼륨 믹서"
+  },
+  "ms-settings:sound": {
+    "Category": "소리",
+    "Page": "소리"
+  },
+  "ms-settings:sound-devices": {
+    "Category": "소리",
+    "Page": "사운드 디바이스"
+  },
+  "ms-settings:sound-defaultinputproperties": {
+    "Category": "소리",
+    "Page": "기본 마이크"
+  },
+  "ms-settings:sound-defaultoutputproperties": {
+    "Category": "소리",
+    "Page": "기본 오디오 출력"
+  },
+  "ms-settings:sound-properties?endpointId={0.0.0.000000000}.": {
+    "Category": "소리",
+    "Page": "오디오 디바이스 속성"
+  },
+  "ms-settings:sound-properties?interfaceId=\\\\?\\SWD#MMDEVAPI#{3.0.0.00000003}.": {
+    "Category": "소리",
+    "Page": "오디오 디바이스 속성"
+  },
+  "ms-settings:surfacehub-accounts": {
+    "Category": "Surface Hub",
+    "Page": "계정"
+  },
+  "ms-settings:surfacehub-sessioncleanup": {
+    "Category": "Surface Hub",
+    "Page": "세션 정리"
+  },
+  "ms-settings:surfacehub-calling": {
+    "Category": "Surface Hub",
+    "Page": "팀 회의"
+  },
+  "ms-settings:surfacehub-devicemanagement": {
+    "Category": "Surface Hub",
+    "Page": "팀 디바이스 관리"
+  },
+  "ms-settings:surfacehub-welcome": {
+    "Category": "Surface Hub",
+    "Page": "시작 화면"
+  },
+  "ms-settings:about": {
+    "Category": "시스템",
+    "Page": "정보"
+  },
+  "ms-settings:display-advanced": {
+    "Category": "시스템",
+    "Page": "고급 디스플레이 설정"
+  },
+  "ms-settings:batterysaver": {
+    "Category": "시스템",
+    "Page": "배터리 절약 모드"
+  },
+  "ms-settings:batterysaver-settings": {
+    "Category": "시스템",
+    "Page": "배터리 절약 모드 설정"
+  },
+  "ms-settings:batterysaver-usagedetails": {
+    "Category": "시스템",
+    "Page": "배터리 사용"
+  },
+  "ms-settings:clipboard": {
+    "Category": "시스템",
+    "Page": "클립보드"
+  },
+  "ms-settings:display": {
+    "Category": "시스템",
+    "Page": "표시"
+  },
+  "ms-settings:savelocations": {
+    "Category": "시스템",
+    "Page": "기본 저장 위치"
+  },
+  "ms-settings:screenrotation": {
+    "Category": "시스템",
+    "Page": "표시"
+  },
+  "ms-settings:quietmomentspresentation": {
+    "Category": "시스템",
+    "Page": "내 디스플레이 복제 중"
+  },
+  "ms-settings:quietmomentsscheduled": {
+    "Category": "시스템",
+    "Page": "이 시간 동안"
+  },
+  "ms-settings:deviceencryption": {
+    "Category": "시스템",
+    "Page": "암호화"
+  },
+  "ms-settings:energyrecommendations": {
+    "Category": "시스템",
+    "Page": "에너지 권장 사항"
+  },
+  "ms-settings:quiethours": {
+    "Category": "시스템",
+    "Page": "집중 지원"
+  },
+  "ms-settings:display-advancedgraphics": {
+    "Category": "시스템",
+    "Page": "그래픽 설정"
+  },
+  "ms-settings:display-advancedgraphics-default": {
+    "Category": "시스템",
+    "Page": "그래픽 기본 설정"
+  },
+  "ms-settings:multitasking": {
+    "Category": "시스템",
+    "Page": "멀티태스킹"
+  },
+  "ms-settings:nightlight": {
+    "Category": "시스템",
+    "Page": "야간 모드 설정"
+  },
+  "ms-settings:project": {
+    "Category": "시스템",
+    "Page": "이 PC에 프로젝팅"
+  },
+  "ms-settings:crossdevice": {
+    "Category": "시스템",
+    "Page": "공유 환경"
+  },
+  "ms-settings:tabletmode": {
+    "Category": "시스템",
+    "Page": "태블릿 모드"
+  },
+  "ms-settings:notifications": {
+    "Category": "시스템",
+    "Page": "알림 및 작업"
+  },
+  "ms-settings:remotedesktop": {
+    "Category": "시스템",
+    "Page": "원격 데스크톱"
+  },
+  "ms-settings:phone": {
+    "Category": "시스템",
+    "Page": "휴대폰"
+  },
+  "ms-settings:powersleep": {
+    "Category": "시스템",
+    "Page": "전원 및 절전"
+  },
+  "ms-settings:presence": {
+    "Category": "시스템",
+    "Page": "상태 감지"
+  },
+  "ms-settings:storagesense": {
+    "Category": "시스템",
+    "Page": "스토리지"
+  },
+  "ms-settings:storagepolicies": {
+    "Category": "시스템",
+    "Page": "스토리지 센스"
+  },
+  "ms-settings:storagerecommendations": {
+    "Category": "시스템",
+    "Page": "스토리지 권장 사항"
+  },
+  "ms-settings:disksandvolumes": {
+    "Category": "시스템",
+    "Page": "디스크 & 볼륨"
+  },
+  "ms-settings:dateandtime": {
+    "Category": "시간 및 언어",
+    "Page": "날짜/시간"
+  },
+  "ms-settings:regionlanguage-jpnime": {
+    "Category": "시간 및 언어",
+    "Page": "일본 IME 설정"
+  },
+  "ms-settings:regionformatting": {
+    "Category": "시간 및 언어",
+    "Page": "지역"
+  },
+  "ms-settings:keyboard": {
+    "Category": "시간 및 언어",
+    "Page": "언어"
+  },
+  "ms-settings:regionlanguage-chsime-pinyin": {
+    "Category": "시간 및 언어",
+    "Page": "Pinyin IME 설정"
+  },
+  "ms-settings:speech": {
+    "Category": "시간 및 언어",
+    "Page": "음성"
+  },
+  "ms-settings:regionlanguage-chsime-wubi": {
+    "Category": "시간 및 언어",
+    "Page": "Wubi IME 설정"
+  },
+  "ms-settings:regionlanguage-adddisplaylanguage": {
+    "Category": "시간 및 언어",
+    "Page": "표시 언어 추가"
+  },
+  "ms-settings:regionlanguage-languageoptions": {
+    "Category": "시간 및 언어",
+    "Page": "언어 옵션"
+  },
+  "ms-settings:regionlanguage-setdisplaylanguage": {
+    "Category": "시간 및 언어",
+    "Page": "표시 언어 설정"
+  },
+  "ms-settings:activation": {
+    "Category": "업데이트 및 보안",
+    "Page": "활성화"
+  },
+  "ms-settings:backup": {
+    "Category": "업데이트 및 보안",
+    "Page": "Backup"
+  },
+  "ms-settings:delivery-optimization": {
+    "Category": "업데이트 및 보안",
+    "Page": "배달 최적화"
+  },
+  "ms-settings:findmydevice": {
+    "Category": "업데이트 및 보안",
+    "Page": "내 디바이스 찾기"
+  },
+  "ms-settings:developers": {
+    "Category": "업데이트 및 보안",
+    "Page": "개발자용"
+  },
+  "ms-settings:recovery": {
+    "Category": "업데이트 및 보안",
+    "Page": "복구"
+  },
+  "ms-settings:signinoptions-launchsecuritykeyenrollment": {
+    "Category": "업데이트 및 보안",
+    "Page": "보안 키 등록 시작"
+  },
+  "ms-settings:troubleshoot": {
+    "Category": "업데이트 및 보안",
+    "Page": "문제 해결"
+  },
+  "ms-settings:windowsdefender": {
+    "Category": "업데이트 및 보안",
+    "Page": "Windows 보안"
+  },
+  "ms-settings:windowsinsider": {
+    "Category": "업데이트 및 보안",
+    "Page": "Windows 참가자 프로그램"
+  },
+  "ms-settings:windowsupdate": {
+    "Category": "업데이트 및 보안",
+    "Page": "Windows 업데이트"
+  },
+  "ms-settings:windowsupdate-activehours": {
+    "Category": "업데이트 및 보안",
+    "Page": "Windows 업데이트 - 활성 시간"
+  },
+  "ms-settings:windowsupdate-options": {
+    "Category": "업데이트 및 보안",
+    "Page": "Windows 업데이트 - 고급 옵션"
+  },
+  "ms-settings:windowsupdate-optionalupdates": {
+    "Category": "업데이트 및 보안",
+    "Page": "Windows 업데이트 - 선택적 업데이트"
+  },
+  "ms-settings:windowsupdate-restartoptions": {
+    "Category": "업데이트 및 보안",
+    "Page": "Windows 업데이트 - 다시 시작 옵션"
+  },
+  "ms-settings:windowsupdate-seekerondemand": {
+    "Category": "업데이트 및 보안",
+    "Page": "주문형 Windows Update-Seeker"
+  },
+  "ms-settings:windowsupdate-history": {
+    "Category": "업데이트 및 보안",
+    "Page": "Windows 업데이트 - 업데이트 기록 보기"
+  },
+  "ms-settings:workplace-provisioning": {
+    "Category": "사용자 계정",
+    "Page": "프로비저닝"
+  },
+  "ms-settings:workplace-repairtoken": {
+    "Category": "사용자 계정",
+    "Page": "토큰 복구"
+  },
+  "ms-settings:provisioning": {
+    "Category": "사용자 계정",
+    "Page": "프로비저닝"
+  },
+  "ms-settings:windowsanywhere": {
+    "Category": "사용자 계정",
+    "Page": "Windows Anywhere"
+  }
+}

@@ -1,0 +1,814 @@
+{
+  "ms-settings:workplace": {
+    "Category": "Akun",
+    "Page": "Mengakses kantor atau sekolah"
+  },
+  "ms-settings:emailandaccounts": {
+    "Category": "Akun",
+    "Page": "Email & akun aplikasi"
+  },
+  "ms-settings:otherusers": {
+    "Category": "Akun",
+    "Page": "Keluarga & orang lain"
+  },
+  "ms-settings:assignedaccess": {
+    "Category": "Akun",
+    "Page": "Menyiapkan kios"
+  },
+  "ms-settings:signinoptions": {
+    "Category": "Akun",
+    "Page": "Opsi masuk"
+  },
+  "ms-settings:sync": {
+    "Category": "Akun",
+    "Page": "Menyinkronkan pengaturan Anda"
+  },
+  "ms-settings:signinoptions-launchfaceenrollment": {
+    "Category": "Akun",
+    "Page": "Penyetelan Windows Hello"
+  },
+  "ms-settings:yourinfo": {
+    "Category": "Akun",
+    "Page": "Info Anda"
+  },
+  "ms-settings:appsfeatures": {
+    "Category": "Aplikasi",
+    "Page": "Aplikasi & Fitur"
+  },
+  "ms-settings:appsfeatures-app": {
+    "Category": "Aplikasi",
+    "Page": "Fitur aplikasi"
+  },
+  "ms-settings:appsforwebsites": {
+    "Category": "Aplikasi",
+    "Page": "Aplikasi untuk situs web"
+  },
+  "ms-settings:defaultapps": {
+    "Category": "Aplikasi",
+    "Page": "Aplikasi default"
+  },
+  "ms-settings:defaultbrowsersettings": {
+    "Category": "Aplikasi",
+    "Page": "Pengaturan browser default"
+  },
+  "ms-settings:optionalfeatures": {
+    "Category": "Aplikasi",
+    "Page": "Mengelola fitur opsional"
+  },
+  "ms-settings:maps": {
+    "Category": "Aplikasi",
+    "Page": "Peta Offline"
+  },
+  "ms-settings:startupapps": {
+    "Category": "Aplikasi",
+    "Page": "Aplikasi startup"
+  },
+  "ms-settings:videoplayback": {
+    "Category": "Aplikasi",
+    "Page": "Mainkan kembali video"
+  },
+  "ms-settings:controlcenter": {
+    "Category": "Pusat Kontrol",
+    "Page": "Pusat kontrol"
+  },
+  "ms-settings:cortana-notifications": {
+    "Category": "Cortana",
+    "Page": "Cortana di seluruh perangkat saya"
+  },
+  "ms-settings:cortana-moredetails": {
+    "Category": "Cortana",
+    "Page": "Detail Selengkapnya"
+  },
+  "ms-settings:cortana-permissions": {
+    "Category": "Cortana",
+    "Page": "Izin & Riwayat"
+  },
+  "ms-settings:cortana-windowssearch": {
+    "Category": "Cortana",
+    "Page": "Mencari Windows"
+  },
+  "ms-settings:cortana-language": {
+    "Category": "Cortana",
+    "Page": "Bicaralah dengan Cortana"
+  },
+  "ms-settings:autoplay": {
+    "Category": "Perangkat",
+    "Page": "Putar Otomatis"
+  },
+  "ms-settings:bluetooth": {
+    "Category": "Perangkat",
+    "Page": "Bluetooth"
+  },
+  "ms-settings:connecteddevices": {
+    "Category": "Perangkat",
+    "Page": "Perangkat Tersambung"
+  },
+  "ms-settings:camera": {
+    "Category": "Perangkat",
+    "Page": "Pengaturan kamera"
+  },
+  "ms-settings:mousetouchpad": {
+    "Category": "Perangkat",
+    "Page": "Mouse & touchpad"
+  },
+  "ms-settings:pen": {
+    "Category": "Perangkat",
+    "Page": "Pena & Tinta Windows"
+  },
+  "ms-settings:printers": {
+    "Category": "Perangkat",
+    "Page": "Printer & pemindai"
+  },
+  "ms-settings:devices-touch": {
+    "Category": "Perangkat",
+    "Page": "Sentuh"
+  },
+  "ms-settings:devices-touchpad": {
+    "Category": "Perangkat",
+    "Page": "Touchpad"
+  },
+  "ms-settings:devicestyping-hwkbtextsuggestions": {
+    "Category": "Perangkat",
+    "Page": "Saran Teks"
+  },
+  "ms-settings:typing": {
+    "Category": "Perangkat",
+    "Page": "Mengetik"
+  },
+  "ms-settings:usb": {
+    "Category": "Perangkat",
+    "Page": "USB"
+  },
+  "ms-settings:wheel": {
+    "Category": "Perangkat",
+    "Page": "Roda"
+  },
+  "ms-settings:mobile-devices": {
+    "Category": "Nomor",
+    "Page": "Telepon Anda"
+  },
+  "ms-settings:easeofaccess-audio": {
+    "Category": "Kemudahan akses",
+    "Page": "Audio"
+  },
+  "ms-settings:easeofaccess-closedcaptioning": {
+    "Category": "Kemudahan akses",
+    "Page": "Keterangan tertutup"
+  },
+  "ms-settings:easeofaccess-colorfilter": {
+    "Category": "Kemudahan akses",
+    "Page": "Filter warna"
+  },
+  "ms-settings:easeofaccess-display": {
+    "Category": "Kemudahan akses",
+    "Page": "Tampilan"
+  },
+  "ms-settings:easeofaccess-eyecontrol": {
+    "Category": "Kemudahan akses",
+    "Page": "Kontrol mata"
+  },
+  "ms-settings:fonts": {
+    "Category": "Kemudahan akses",
+    "Page": "Font"
+  },
+  "ms-settings:easeofaccess-highcontrast": {
+    "Category": "Kemudahan akses",
+    "Page": "Kontras tinggi"
+  },
+  "ms-settings:easeofaccess-keyboard": {
+    "Category": "Kemudahan akses",
+    "Page": "Keyboard"
+  },
+  "ms-settings:easeofaccess-magnifier": {
+    "Category": "Kemudahan akses",
+    "Page": "Kaca pembesar"
+  },
+  "ms-settings:easeofaccess-mouse": {
+    "Category": "Kemudahan akses",
+    "Page": "Mouse"
+  },
+  "ms-settings:easeofaccess-mousepointer": {
+    "Category": "Kemudahan akses",
+    "Page": "Penunjuk mouse & sentuhan"
+  },
+  "ms-settings:easeofaccess-narrator": {
+    "Category": "Kemudahan akses",
+    "Page": "Narrator"
+  },
+  "ms-settings:easeofaccess-speechrecognition": {
+    "Category": "Kemudahan akses",
+    "Page": "Ucapan"
+  },
+  "ms-settings:easeofaccess-cursor": {
+    "Category": "Kemudahan akses",
+    "Page": "Kursor teks"
+  },
+  "ms-settings:easeofaccess-visualeffects": {
+    "Category": "Kemudahan akses",
+    "Page": "Efek Visual"
+  },
+  "ms-settings:extras": {
+    "Category": "Ekstra",
+    "Page": "Ekstra"
+  },
+  "ms-settings:family-group": {
+    "Category": "Grup Keluarga",
+    "Page": "Grup Keluarga"
+  },
+  "ms-settings:gaming-gamebar": {
+    "Category": "Permainan",
+    "Page": "Bilah permainan"
+  },
+  "ms-settings:gaming-gamedvr": {
+    "Category": "Permainan",
+    "Page": "Game DVR"
+  },
+  "ms-settings:gaming-gamemode": {
+    "Category": "Permainan",
+    "Page": "Mode Permainan"
+  },
+  "ms-settings:quietmomentsgame": {
+    "Category": "Permainan",
+    "Page": "Memainkan game layar penuh"
+  },
+  "ms-settings:gaming-trueplay": {
+    "Category": "Permainan",
+    "Page": "TruePlay"
+  },
+  "ms-settings:holographic-audio": {
+    "Category": "Permainan",
+    "Page": "Audio dan ucapan"
+  },
+  "ms-settings:privacy-holographic-environment": {
+    "Category": "Permainan",
+    "Page": "Lingkungan"
+  },
+  "ms-settings:holographic-headset": {
+    "Category": "Permainan",
+    "Page": "Tampilan headset"
+  },
+  "ms-settings:holographic-management": {
+    "Category": "Permainan",
+    "Page": "Menghapus instalan"
+  },
+  "ms-settings:holographic-startupandesktop": {
+    "Category": "Permainan",
+    "Page": "Startup dan desktop"
+  },
+  "ms-settings:network-status": {
+    "Category": "Jaringan dan internet",
+    "Page": "Jaringan & internet"
+  },
+  "ms-settings:network-advancedsettings": {
+    "Category": "Jaringan dan internet",
+    "Page": "Pengaturan tingkat lanjut"
+  },
+  "ms-settings:network-airplanemode": {
+    "Category": "Jaringan dan internet",
+    "Page": "Mode pesawat"
+  },
+  "ms-settings:network-cellular": {
+    "Category": "Jaringan dan internet",
+    "Page": "Seluler & SIM"
+  },
+  "ms-settings:network-dialup": {
+    "Category": "Jaringan dan internet",
+    "Page": "Putar-dial-up"
+  },
+  "ms-settings:network-directaccess": {
+    "Category": "Jaringan dan internet",
+    "Page": "DirectAccess"
+  },
+  "ms-settings:network-ethernet": {
+    "Category": "Jaringan dan internet",
+    "Page": "Ethernet"
+  },
+  "ms-settings:network-wifisettings": {
+    "Category": "Jaringan dan internet",
+    "Page": "Mengelola jaringan yang diketahui"
+  },
+  "ms-settings:network-mobilehotspot": {
+    "Category": "Jaringan dan internet",
+    "Page": "Hotspot seluler"
+  },
+  "ms-settings:network-proxy": {
+    "Category": "Jaringan dan internet",
+    "Page": "Proksi"
+  },
+  "ms-settings:network-vpn": {
+    "Category": "Jaringan dan internet",
+    "Page": "VPN"
+  },
+  "ms-settings:network-wifi": {
+    "Category": "Jaringan dan internet",
+    "Page": "Wi-Fi"
+  },
+  "ms-settings:wifi-provisioning": {
+    "Category": "Jaringan dan internet",
+    "Page": "Provisi Wi-Fi"
+  },
+  "ms-settings:personalization-background": {
+    "Category": "Personalisasi",
+    "Page": "Latar belakang"
+  },
+  "ms-settings:personalization-start-places": {
+    "Category": "Personalisasi",
+    "Page": "Pilih folder mana yang muncul pada Mulai"
+  },
+  "ms-settings:personalization-colors": {
+    "Category": "Personalisasi",
+    "Page": "Warna"
+  },
+  "ms-settings:personalization-textinput-copilot-hardwarekey": {
+    "Category": "Personalisasi",
+    "Page": "Menyesuaikan tombol Copilot pada keyboard"
+  },
+  "ms-settings:personalization-lighting": {
+    "Category": "Personalisasi",
+    "Page": "Pencahayaan Dinamis"
+  },
+  "ms-settings:personalization-glance": {
+    "Category": "Personalisasi",
+    "Page": "Teliti"
+  },
+  "ms-settings:lockscreen": {
+    "Category": "Personalisasi",
+    "Page": "Layar penguncian"
+  },
+  "ms-settings:personalization-navbar": {
+    "Category": "Personalisasi",
+    "Page": "Bilah navigasi"
+  },
+  "ms-settings:personalisasi": {
+    "Category": "Personalisasi",
+    "Page": "Personalisasi "
+  },
+  "ms-settings:personalization-start": {
+    "Category": "Personalisasi",
+    "Page": "Mulai"
+  },
+  "ms-settings:taskbar": {
+    "Category": "Sistem",
+    "Page": "Taskbar"
+  },
+  "ms-settings:personalization-textinput": {
+    "Category": "Personalisasi",
+    "Page": "Input teks"
+  },
+  "ms-settings:personalization-touchkeyboard": {
+    "Category": "Personalisasi",
+    "Page": "Papan Tombol Sentuh"
+  },
+  "ms-settings:themes": {
+    "Category": "Personalisasi",
+    "Page": "Tema"
+  },
+  "ms-settings:deviceusage": {
+    "Category": "Nomor",
+    "Page": "Penggunaan Perangkat"
+  },
+  "ms-settings:privacy-accessoryapps": {
+    "Category": "Privasi",
+    "Page": "Aplikasi aksesori"
+  },
+  "ms-settings:privacy-accountinfo": {
+    "Category": "Privasi",
+    "Page": "Info akun"
+  },
+  "ms-settings:privacy-activityhistory": {
+    "Category": "Privasi",
+    "Page": "Riwayat aktivitas"
+  },
+  "ms-settings:privacy-advertisingid": {
+    "Category": "Privasi",
+    "Page": "ID Iklan"
+  },
+  "ms-settings:privacy-appdiagnostics": {
+    "Category": "Privasi",
+    "Page": "Diagnostik aplikasi"
+  },
+  "ms-settings:privacy-automaticfiledownloads": {
+    "Category": "Privasi",
+    "Page": "Pengunduhan file otomatis"
+  },
+  "ms-settings:privacy-backgroundapps": {
+    "Category": "Privasi",
+    "Page": "Aplikasi Latar Belakang"
+  },
+  "ms-settings:privacy-backgroundspatialperception": {
+    "Category": "Privasi",
+    "Page": "Persepsi Spasial Latar Belakang"
+  },
+  "ms-settings:privacy-calendar": {
+    "Category": "Privasi",
+    "Page": "Calendar"
+  },
+  "ms-settings:privacy-callhistory": {
+    "Category": "Privasi",
+    "Page": "Riwayat panggilan"
+  },
+  "ms-settings:privacy-webcam": {
+    "Category": "Privasi",
+    "Page": "Kamera"
+  },
+  "ms-settings:privacy-contacts": {
+    "Category": "Privasi",
+    "Page": "Kontak"
+  },
+  "ms-settings:privacy-documents": {
+    "Category": "Privasi",
+    "Page": "Dokumen"
+  },
+  "ms-settings:privacy-downloadsfolder": {
+    "Category": "Privasi",
+    "Page": "Folder unduhan"
+  },
+  "ms-settings:privacy-email": {
+    "Category": "Privasi",
+    "Page": "Email"
+  },
+  "ms-settings:privacy-eyetracker": {
+    "Category": "Privasi",
+    "Page": "Pelacak mata"
+  },
+  "ms-settings:privacy-feedback": {
+    "Category": "Privasi",
+    "Page": "Umpan balik & diagnostik"
+  },
+  "ms-settings:privacy-broadfilesystemaccess": {
+    "Category": "Privasi",
+    "Page": "Sistem file"
+  },
+  "ms-settings:privacy": {
+    "Category": "Privasi",
+    "Page": "Umum"
+  },
+  "ms-settings:privacy-graphicscaptureprogrammatic": {
+    "Category": "Privasi",
+    "Page": "Grafik"
+  },
+  "ms-settings:privacy-speechtyping": {
+    "Category": "Privasi",
+    "Page": "Penintaan & pengetikan"
+  },
+  "ms-settings:privacy-location": {
+    "Category": "Privasi",
+    "Page": "Lokasi"
+  },
+  "ms-settings:privacy-messaging": {
+    "Category": "Privasi",
+    "Page": "Olahpesan"
+  },
+  "ms-settings:privacy-microphone": {
+    "Category": "Privasi",
+    "Page": "Mikrofon"
+  },
+  "ms-settings:privacy-motion": {
+    "Category": "Privasi",
+    "Page": "Gerakan"
+  },
+  "ms-settings:privacy-musiclibrary": {
+    "Category": "Privasi",
+    "Page": "Pustaka Musik"
+  },
+  "ms-settings:privacy-notifications": {
+    "Category": "Privasi",
+    "Page": "Notifications"
+  },
+  "ms-settings:privacy-customdevices": {
+    "Category": "Privasi",
+    "Page": "Perangkat lain"
+  },
+  "ms-settings:privacy-phonecalls": {
+    "Category": "Privasi",
+    "Page": "Panggilan telepon"
+  },
+  "ms-settings:privacy-pictures": {
+    "Category": "Privasi",
+    "Page": "Foto"
+  },
+  "ms-settings:privacy-radios": {
+    "Category": "Privasi",
+    "Page": "Radio"
+  },
+  "ms-settings:privacy-speech": {
+    "Category": "Privasi",
+    "Page": "Ucapan"
+  },
+  "ms-settings:privacy-tasks": {
+    "Category": "Privasi",
+    "Page": "Tugas"
+  },
+  "ms-settings:privacy-videos": {
+    "Category": "Privasi",
+    "Page": "Video"
+  },
+  "ms-settings:privacy-voiceactivation": {
+    "Category": "Privasi",
+    "Page": "Aktivasi suara"
+  },
+  "ms-settings:search": {
+    "Category": "Cari",
+    "Page": "Cari"
+  },
+  "ms-settings:search-moredetails": {
+    "Category": "Cari",
+    "Page": "Cari detail selengkapnya"
+  },
+  "ms-settings:search-permissions": {
+    "Category": "Cari",
+    "Page": "Izin Pencarian"
+  },
+  "ms-settings:apps-volume": {
+    "Category": "Suarakan",
+    "Page": "Mixer volume"
+  },
+  "ms-settings:sound": {
+    "Category": "Suarakan",
+    "Page": "Suarakan"
+  },
+  "ms-settings:sound-devices": {
+    "Category": "Suarakan",
+    "Page": "Perangkat suara"
+  },
+  "ms-settings:sound-defaultinputproperties": {
+    "Category": "Suarakan",
+    "Page": "Mikrofon default"
+  },
+  "ms-settings:sound-defaultoutputproperties": {
+    "Category": "Suarakan",
+    "Page": "Output audio default"
+  },
+  "ms-settings:sound-properties?endpointId={0.0.0.00000000}.": {
+    "Category": "Suarakan",
+    "Page": "Properti perangkat audio"
+  },
+  "ms-settings:sound-properties?interfaceId=\\\\?\\SWD#MMDEVAPI#{3.0.0.00000003}.": {
+    "Category": "Suarakan",
+    "Page": "Properti perangkat audio"
+  },
+  "ms-settings:surfacehub-accounts": {
+    "Category": "Surface Hub",
+    "Page": "Akun"
+  },
+  "ms-settings:surfacehub-sessioncleanup": {
+    "Category": "Surface Hub",
+    "Page": "Pembersihan sesi"
+  },
+  "ms-settings:surfacehub-calling": {
+    "Category": "Surface Hub",
+    "Page": "Konferensi Tim"
+  },
+  "ms-settings:surfacehub-devicemanagement": {
+    "Category": "Surface Hub",
+    "Page": "Manajemen perangkat tim"
+  },
+  "ms-settings:surfacehub-welcome": {
+    "Category": "Surface Hub",
+    "Page": "Layar selamat datang"
+  },
+  "ms-settings:about": {
+    "Category": "Sistem",
+    "Page": "Tentang"
+  },
+  "ms-settings:display-advanced": {
+    "Category": "Sistem",
+    "Page": "Pengaturan tampilan tingkat lanjut"
+  },
+  "ms-settings:batterysaver": {
+    "Category": "Sistem",
+    "Page": "Penghemat Baterai"
+  },
+  "ms-settings:batterysaver-settings": {
+    "Category": "Sistem",
+    "Page": "Pengaturan Penghemat Baterai"
+  },
+  "ms-settings:batterysaver-usagedetails": {
+    "Category": "Sistem",
+    "Page": "Penggunaan baterai"
+  },
+  "ms-settings:clipboard": {
+    "Category": "Sistem",
+    "Page": "Clipboard"
+  },
+  "ms-settings:display": {
+    "Category": "Sistem",
+    "Page": "Tampilan"
+  },
+  "ms-settings:savelocations": {
+    "Category": "Sistem",
+    "Page": "Lokasi Simpan Default"
+  },
+  "ms-settings:screenrotation": {
+    "Category": "Sistem",
+    "Page": "Tampilan"
+  },
+  "ms-settings:quietmomentspresentation": {
+    "Category": "Sistem",
+    "Page": "Menduplikasi tampilan saya"
+  },
+  "ms-settings:quietmomentsscheduled": {
+    "Category": "Sistem",
+    "Page": "Selama jam-jam ini"
+  },
+  "ms-settings:deviceencryption": {
+    "Category": "Sistem",
+    "Page": "Enkripsi"
+  },
+  "ms-settings:energyrecommendations": {
+    "Category": "Sistem",
+    "Page": "Rekomendasi energi"
+  },
+  "ms-settings:quiethours": {
+    "Category": "Sistem",
+    "Page": "Bantuan fokus"
+  },
+  "ms-settings:display-advancedgraphics": {
+    "Category": "Sistem",
+    "Page": "Pengaturan Grafik"
+  },
+  "ms-settings:display-advancedgraphics-default": {
+    "Category": "Sistem",
+    "Page": "Pengaturan Default Grafis"
+  },
+  "ms-settings:multitasking": {
+    "Category": "Sistem",
+    "Page": "Multitasking"
+  },
+  "ms-settings:nightlight": {
+    "Category": "Sistem",
+    "Page": "Pengaturan cahaya malam"
+  },
+  "ms-settings:project": {
+    "Category": "Sistem",
+    "Page": "Memproyekan ke PC ini"
+  },
+  "ms-settings:crossdevice": {
+    "Category": "Sistem",
+    "Page": "Pengalaman bersama"
+  },
+  "ms-settings:tabletmode": {
+    "Category": "Sistem",
+    "Page": "Mode tablet"
+  },
+  "ms-settings:notifications": {
+    "Category": "Sistem",
+    "Page": "Pemberitahuan & tindakan"
+  },
+  "ms-settings:remotedesktop": {
+    "Category": "Sistem",
+    "Page": "Desktop Jauh"
+  },
+  "ms-settings:phone": {
+    "Category": "Sistem",
+    "Page": "Nomor"
+  },
+  "ms-settings:powersleep": {
+    "Category": "Sistem",
+    "Page": "Daya & tidur"
+  },
+  "ms-settings:presence": {
+    "Category": "Sistem",
+    "Page": "Pengimpatan kehadiran"
+  },
+  "ms-settings:storagesense": {
+    "Category": "Sistem",
+    "Page": "Penyimpanan"
+  },
+  "ms-settings:storagepolicies": {
+    "Category": "Sistem",
+    "Page": "Storage Sense"
+  },
+  "ms-settings:storagerecommendations": {
+    "Category": "Sistem",
+    "Page": "Rekomendasi penyimpanan"
+  },
+  "ms-settings:disksandvolumes": {
+    "Category": "Sistem",
+    "Page": "Disk & volume"
+  },
+  "ms-settings:dateandtime": {
+    "Category": "Waktu dan bahasa",
+    "Page": "Date & Time"
+  },
+  "ms-settings:regionlanguage-jpnime": {
+    "Category": "Waktu dan bahasa",
+    "Page": "Pengaturan IME Jepang"
+  },
+  "ms-settings:regionformatting": {
+    "Category": "Waktu dan bahasa",
+    "Page": "Wilayah"
+  },
+  "ms-settings:keyboard": {
+    "Category": "Waktu dan bahasa",
+    "Page": "Bahasa"
+  },
+  "ms-settings:regionlanguage-chsime-pinyin": {
+    "Category": "Waktu dan bahasa",
+    "Page": "Pengaturan Pinyin IME"
+  },
+  "ms-settings:speech": {
+    "Category": "Waktu dan bahasa",
+    "Page": "Ucapan"
+  },
+  "ms-settings:regionlanguage-chsime-wubi": {
+    "Category": "Waktu dan bahasa",
+    "Page": "Pengaturan IME Wubi"
+  },
+  "ms-settings:regionlanguage-adddisplaylanguage": {
+    "Category": "Waktu dan bahasa",
+    "Page": "Menambahkan bahasa tampilan"
+  },
+  "ms-settings:regionlanguage-languageoptions": {
+    "Category": "Waktu dan bahasa",
+    "Page": "Opsi bahasa"
+  },
+  "ms-settings:regionlanguage-setdisplaylanguage": {
+    "Category": "Waktu dan bahasa",
+    "Page": "Mengatur bahasa tampilan"
+  },
+  "ms-settings:activation": {
+    "Category": "Pembaruan dan keamanan",
+    "Page": "Aktivasi"
+  },
+  "ms-settings:backup": {
+    "Category": "Pembaruan dan keamanan",
+    "Page": "Cadangan"
+  },
+  "ms-settings:delivery-optimization": {
+    "Category": "Pembaruan dan keamanan",
+    "Page": "Pengoptimalan Pengiriman"
+  },
+  "ms-settings:findmydevice": {
+    "Category": "Pembaruan dan keamanan",
+    "Page": "Temukan Perangkat Saya"
+  },
+  "ms-settings:developers": {
+    "Category": "Pembaruan dan keamanan",
+    "Page": "Untuk pengembang"
+  },
+  "ms-settings:recovery": {
+    "Category": "Pembaruan dan keamanan",
+    "Page": "Pemulihan"
+  },
+  "ms-settings:signinoptions-launchsecuritykeyenrollment": {
+    "Category": "Pembaruan dan keamanan",
+    "Page": "Luncurkan Pendaftaran Kunci Keamanan"
+  },
+  "ms-settings:troubleshoot": {
+    "Category": "Pembaruan dan keamanan",
+    "Page": "Pecahkan masalah"
+  },
+  "ms-settings:windowsdefender": {
+    "Category": "Pembaruan dan keamanan",
+    "Page": "Keamanan Windows"
+  },
+  "ms-settings:windowsinsider": {
+    "Category": "Pembaruan dan keamanan",
+    "Page": "Program Windows Insider"
+  },
+  "ms-settings:windowsupdate": {
+    "Category": "Pembaruan dan keamanan",
+    "Page": "Windows Update"
+  },
+  "ms-settings:windowsupdate-activehours": {
+    "Category": "Pembaruan dan keamanan",
+    "Page": "Windows Update-Active hours"
+  },
+  "ms-settings:windowsupdate-options": {
+    "Category": "Pembaruan dan keamanan",
+    "Page": "Opsi Windows Update-Advanced"
+  },
+  "ms-settings:windowsupdate-optionalupdates": {
+    "Category": "Pembaruan dan keamanan",
+    "Page": "Pembaruan Windows-Pembaruan Opsional"
+  },
+  "ms-settings:windowsupdate-restartoptions": {
+    "Category": "Pembaruan dan keamanan",
+    "Page": "Opsi Windows Update-Restart"
+  },
+  "ms-settings:windowsupdate-seekerondemand": {
+    "Category": "Pembaruan dan keamanan",
+    "Page": "Windows Update-Seeker sesuai permintaan"
+  },
+  "ms-settings:windowsupdate-history": {
+    "Category": "Pembaruan dan keamanan",
+    "Page": "Riwayat pembaruan Windows Update-View"
+  },
+  "ms-settings:workplace-provisioning": {
+    "Category": "Akun pengguna",
+    "Page": "Penyediaan"
+  },
+  "ms-settings:workplace-repairtoken": {
+    "Category": "Akun pengguna",
+    "Page": "Perbaiki token"
+  },
+  "ms-settings:provisioning": {
+    "Category": "Akun pengguna",
+    "Page": "Penyediaan"
+  },
+  "ms-settings:windowsanywhere": {
+    "Category": "Akun pengguna",
+    "Page": "Windows Anywhere"
+  }
+}

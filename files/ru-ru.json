@@ -1,0 +1,814 @@
+{
+  "ms-settings:workplace": {
+    "Category": "Учетные записи",
+    "Page": "Доступ к учетной записи места работы или учебного заведения"
+  },
+  "ms-settings:emailandaccounts": {
+    "Category": "Учетные записи",
+    "Page": "Учетные записи электронной почты и приложений"
+  },
+  "ms-settings:otherusers": {
+    "Category": "Учетные записи",
+    "Page": "Семья и другие люди"
+  },
+  "ms-settings:assignedaccess": {
+    "Category": "Учетные записи",
+    "Page": "Настройка киоска"
+  },
+  "ms-settings:signinoptions": {
+    "Category": "Учетные записи",
+    "Page": "Параметры входа"
+  },
+  "ms-settings:sync": {
+    "Category": "Учетные записи",
+    "Page": "Синхронизация параметров"
+  },
+  "ms-settings:signinoptions-launchfaceenrollment": {
+    "Category": "Учетные записи",
+    "Page": "Настройка Windows Hello"
+  },
+  "ms-settings:yourinfo": {
+    "Category": "Учетные записи",
+    "Page": "Сведения"
+  },
+  "ms-settings:appsfeatures": {
+    "Category": "Приложения",
+    "Page": "Приложения и возможности"
+  },
+  "ms-settings:appsfeatures-app": {
+    "Category": "Приложения",
+    "Page": "Функции приложения"
+  },
+  "ms-settings:appsforwebsites": {
+    "Category": "Приложения",
+    "Page": "Приложения для веб-сайтов"
+  },
+  "ms-settings:defaultapps": {
+    "Category": "Приложения",
+    "Page": "Приложения по умолчанию"
+  },
+  "ms-settings:defaultbrowsersettings": {
+    "Category": "Приложения",
+    "Page": "Параметры браузера по умолчанию"
+  },
+  "ms-settings:optionalfeatures": {
+    "Category": "Приложения",
+    "Page": "Управление дополнительными возможностями"
+  },
+  "ms-settings:maps": {
+    "Category": "Приложения",
+    "Page": "Автономные карты"
+  },
+  "ms-settings:startupapps": {
+    "Category": "Приложения",
+    "Page": "Запуск приложений"
+  },
+  "ms-settings:videoplayback": {
+    "Category": "Приложения",
+    "Page": "Воспроизведение видео"
+  },
+  "ms-settings:controlcenter": {
+    "Category": "Центр управления",
+    "Page": "Центр управления"
+  },
+  "ms-settings:cortana-notifications": {
+    "Category": "Кортана",
+    "Page": "Кортана на моих устройствах"
+  },
+  "ms-settings:cortana-moredetails": {
+    "Category": "Кортана",
+    "Page": "Дополнительные сведения"
+  },
+  "ms-settings:cortana-permissions": {
+    "Category": "Кортана",
+    "Page": "Разрешения и журнал"
+  },
+  "ms-settings:cortana-windowssearch": {
+    "Category": "Кортана",
+    "Page": "Поиск в Windows"
+  },
+  "ms-settings:cortana-language": {
+    "Category": "Кортана",
+    "Page": "Поговорите с Кортаной"
+  },
+  "ms-settings:autoplay": {
+    "Category": "Устройства",
+    "Page": "Автозапуск"
+  },
+  "ms-settings:bluetooth": {
+    "Category": "Устройства",
+    "Page": "Bluetooth"
+  },
+  "ms-settings:connecteddevices": {
+    "Category": "Устройства",
+    "Page": "Подключенные устройства"
+  },
+  "ms-settings:camera": {
+    "Category": "Устройства",
+    "Page": "Параметры камеры"
+  },
+  "ms-settings:mousetouchpad": {
+    "Category": "Устройства",
+    "Page": "Мышь и сенсорный панель"
+  },
+  "ms-settings:pen": {
+    "Category": "Устройства",
+    "Page": "Перо и рукописный ввод Windows"
+  },
+  "ms-settings:printers": {
+    "Category": "Устройства",
+    "Page": "Принтеры и сканеры"
+  },
+  "ms-settings:devices-touch": {
+    "Category": "Устройства",
+    "Page": "Сенсорный ввод"
+  },
+  "ms-settings:devices-touchpad": {
+    "Category": "Устройства",
+    "Page": "Touchpad"
+  },
+  "ms-settings:devicestyping-hwkbtextsuggestions": {
+    "Category": "Устройства",
+    "Page": "Текстовые предложения"
+  },
+  "ms-settings:typeing": {
+    "Category": "Устройства",
+    "Page": "Ввод с клавиатуры"
+  },
+  "ms-settings:usb": {
+    "Category": "Устройства",
+    "Page": "USB"
+  },
+  "ms-settings:wheel": {
+    "Category": "Устройства",
+    "Page": "Колесико"
+  },
+  "ms-settings:mobile-devices": {
+    "Category": "Номер телефона",
+    "Page": "Ваш телефон"
+  },
+  "ms-settings:easeofaccess-audio": {
+    "Category": "Специальные возможности",
+    "Page": "Аудио"
+  },
+  "ms-settings:easeofaccess-closedcaptioning": {
+    "Category": "Специальные возможности",
+    "Page": "Скрытые субтитры"
+  },
+  "ms-settings:easeofaccess-colorfilter": {
+    "Category": "Специальные возможности",
+    "Page": "Цветовые фильтры"
+  },
+  "ms-settings:easeofaccess-display": {
+    "Category": "Специальные возможности",
+    "Page": "Отображать"
+  },
+  "ms-settings:easeofaccess-eyecontrol": {
+    "Category": "Специальные возможности",
+    "Page": "Визуальное управление"
+  },
+  "ms-settings:fonts": {
+    "Category": "Специальные возможности",
+    "Page": "Fonts"
+  },
+  "ms-settings:easeofaccess-highcontrast": {
+    "Category": "Специальные возможности",
+    "Page": "Высокая контрастность"
+  },
+  "ms-settings:easeofaccess-keyboard": {
+    "Category": "Специальные возможности",
+    "Page": "Клавиатура"
+  },
+  "ms-settings:easeofaccess-magnifier": {
+    "Category": "Специальные возможности",
+    "Page": "Увеличитель"
+  },
+  "ms-settings:easeofaccess-mouse": {
+    "Category": "Специальные возможности",
+    "Page": "Мышь"
+  },
+  "ms-settings:easeofaccess-mousepointer": {
+    "Category": "Специальные возможности",
+    "Page": "Указатель мыши и сенсорный ввод"
+  },
+  "ms-settings:easeofaccess-экранный": {
+    "Category": "Специальные возможности",
+    "Page": "Narrator"
+  },
+  "ms-settings:easeofaccess-speechrecognition": {
+    "Category": "Специальные возможности",
+    "Page": "Речь"
+  },
+  "ms-settings:easeofaccess-cursor": {
+    "Category": "Специальные возможности",
+    "Page": "Текстовый курсор"
+  },
+  "ms-settings:easeofaccess-visualeffects": {
+    "Category": "Специальные возможности",
+    "Page": "Визуальные эффекты"
+  },
+  "ms-settings:extras": {
+    "Category": "TMP",
+    "Page": "TMP"
+  },
+  "ms-settings:family-group": {
+    "Category": "Семейная группа",
+    "Page": "Семейная группа"
+  },
+  "ms-settings:gaming-gamebar": {
+    "Category": "Игры",
+    "Page": "Панель игр"
+  },
+  "ms-settings:gaming-gamedvr": {
+    "Category": "Игры",
+    "Page": "DVR для игр"
+  },
+  "ms-settings:gaming-gamemode": {
+    "Category": "Игры",
+    "Page": "Режим игры"
+  },
+  "ms-settings:quietmomentsgame": {
+    "Category": "Игры",
+    "Page": "Игра в полноэкранную игру"
+  },
+  "ms-settings:gaming-trueplay": {
+    "Category": "Игры",
+    "Page": "TruePlay"
+  },
+  "ms-settings:holographic-audio": {
+    "Category": "Игры",
+    "Page": "Звук и речь"
+  },
+  "ms-settings:privacy-holographic-environment": {
+    "Category": "Игры",
+    "Page": "Среда"
+  },
+  "ms-settings:holographic-гарнитура": {
+    "Category": "Игры",
+    "Page": "Дисплей гарнитуры"
+  },
+  "ms-settings:holographic-management": {
+    "Category": "Игры",
+    "Page": "Удаление"
+  },
+  "ms-settings:holographic-startupandesktop": {
+    "Category": "Игры",
+    "Page": "Запуск и рабочий стол"
+  },
+  "ms-settings:network-status": {
+    "Category": "Сеть и Интернет",
+    "Page": "Сеть и Интернет"
+  },
+  "ms-settings:network-advancedsettings": {
+    "Category": "Сеть и Интернет",
+    "Page": "Расширенные настройки"
+  },
+  "ms-settings:network-airplanemode": {
+    "Category": "Сеть и Интернет",
+    "Page": "Режим \"в самолете\""
+  },
+  "ms-settings:network-cellular": {
+    "Category": "Сеть и Интернет",
+    "Page": "Сотовые и SIM-карты"
+  },
+  "ms-settings:network-dialup": {
+    "Category": "Сеть и Интернет",
+    "Page": "Подключение к телефону"
+  },
+  "ms-settings:network-directaccess": {
+    "Category": "Сеть и Интернет",
+    "Page": "DirectAccess"
+  },
+  "ms-settings:network-ethernet": {
+    "Category": "Сеть и Интернет",
+    "Page": "Ethernet"
+  },
+  "ms-settings:network-wifisettings": {
+    "Category": "Сеть и Интернет",
+    "Page": "Управление известными сетями"
+  },
+  "ms-settings:network-mobilehotspot": {
+    "Category": "Сеть и Интернет",
+    "Page": "Мобильная точка доступа"
+  },
+  "ms-settings:network-proxy": {
+    "Category": "Сеть и Интернет",
+    "Page": "Proxy "
+  },
+  "ms-settings:network-vpn": {
+    "Category": "Сеть и Интернет",
+    "Page": "VPN"
+  },
+  "ms-settings:network-wifi": {
+    "Category": "Сеть и Интернет",
+    "Page": "Wi-Fi"
+  },
+  "ms-settings:wifi-provisioning": {
+    "Category": "Сеть и Интернет",
+    "Page": "Подготовка Wi-Fi"
+  },
+  "ms-settings:personalization-background": {
+    "Category": "Personalization",
+    "Page": "Общие сведения"
+  },
+  "ms-settings:personalization-start-places": {
+    "Category": "Personalization",
+    "Page": "Выберите, какие папки отображаются на начальном экране"
+  },
+  "ms-settings:personalization-colors": {
+    "Category": "Personalization",
+    "Page": "Цвета"
+  },
+  "ms-settings:personalization-textinput-copilot-hardwarekey": {
+    "Category": "Personalization",
+    "Page": "Настройка клавиши Copilot на клавиатуре"
+  },
+  "ms-settings:personalization-lighting": {
+    "Category": "Personalization",
+    "Page": "Динамическое освещение"
+  },
+  "ms-settings:personalization-glance": {
+    "Category": "Personalization",
+    "Page": "Glance"
+  },
+  "ms-settings:lockscreen": {
+    "Category": "Personalization",
+    "Page": "Блокирующая экран"
+  },
+  "ms-settings:personalization-navbar": {
+    "Category": "Personalization",
+    "Page": "Панель навигации"
+  },
+  "ms-settings:персонализация": {
+    "Category": "Personalization",
+    "Page": "Персонализация "
+  },
+  "ms-settings:personalization-start": {
+    "Category": "Personalization",
+    "Page": "Начать"
+  },
+  "ms-settings:taskbar": {
+    "Category": "Система",
+    "Page": "Панель задач"
+  },
+  "ms-settings:personalization-textinput": {
+    "Category": "Personalization",
+    "Page": "Ввод текста"
+  },
+  "ms-settings:personalization-touchkeyboard": {
+    "Category": "Personalization",
+    "Page": "Сенсорная клавиатура"
+  },
+  "ms-settings:темы": {
+    "Category": "Personalization",
+    "Page": "Themes"
+  },
+  "ms-settings:deviceusage": {
+    "Category": "Номер телефона",
+    "Page": "Использование устройства"
+  },
+  "ms-settings:privacy-accessoryapps": {
+    "Category": "Конфиденциальность",
+    "Page": "Приложения для аксессуаров"
+  },
+  "ms-settings:privacy-accountinfo": {
+    "Category": "Конфиденциальность",
+    "Page": "Сведения об учетной записи"
+  },
+  "ms-settings:privacy-activityhistory": {
+    "Category": "Конфиденциальность",
+    "Page": "Журнал активности"
+  },
+  "ms-settings:privacy-advertisingid": {
+    "Category": "Конфиденциальность",
+    "Page": "Идентификатор получателя рекламы"
+  },
+  "ms-settings:privacy-app": {
+    "Category": "Конфиденциальность",
+    "Page": "Диагностика приложения"
+  },
+  "ms-settings:privacy-automaticfiledownloads": {
+    "Category": "Конфиденциальность",
+    "Page": "Автоматическое скачивание файлов"
+  },
+  "ms-settings:privacy-backgroundapps": {
+    "Category": "Конфиденциальность",
+    "Page": "Фоновые приложения"
+  },
+  "ms-settings:privacy-backgroundspatialperception": {
+    "Category": "Конфиденциальность",
+    "Page": "Фоновое пространственное восприятие"
+  },
+  "ms-settings:privacy-calendar": {
+    "Category": "Конфиденциальность",
+    "Page": "Календарь"
+  },
+  "ms-settings:privacy-callhistory": {
+    "Category": "Конфиденциальность",
+    "Page": "Журнал вызовов"
+  },
+  "ms-settings:privacy-webcam": {
+    "Category": "Конфиденциальность",
+    "Page": "Камера"
+  },
+  "ms-settings:privacy-contacts": {
+    "Category": "Конфиденциальность",
+    "Page": "Контакты"
+  },
+  "ms-settings:privacy-documents": {
+    "Category": "Конфиденциальность",
+    "Page": "Документы"
+  },
+  "ms-settings:privacy-downloadsfolder": {
+    "Category": "Конфиденциальность",
+    "Page": "Папка \"Скачивание\""
+  },
+  "ms-settings:privacy-email": {
+    "Category": "Конфиденциальность",
+    "Page": "Эл. почта"
+  },
+  "ms-settings:privacy-eyetracker": {
+    "Category": "Конфиденциальность",
+    "Page": "Средство отслеживания глаз"
+  },
+  "ms-settings:privacy-feedback": {
+    "Category": "Конфиденциальность",
+    "Page": "Отзывы и диагностика"
+  },
+  "ms-settings:privacy-broadfilesystemaccess": {
+    "Category": "Конфиденциальность",
+    "Page": "Файловая система"
+  },
+  "ms-settings:privacy": {
+    "Category": "Конфиденциальность",
+    "Page": "Общие"
+  },
+  "ms-settings:privacy-graphicscaptureprogrammatic": {
+    "Category": "Конфиденциальность",
+    "Page": "Графика"
+  },
+  "ms-settings:privacy-speechtyping": {
+    "Category": "Конфиденциальность",
+    "Page": "Рукописный ввод и ввод с клавиатуры"
+  },
+  "ms-settings:privacy-location": {
+    "Category": "Конфиденциальность",
+    "Page": "Расположение"
+  },
+  "ms-settings:privacy-messaging": {
+    "Category": "Конфиденциальность",
+    "Page": "Обмен сообщениями"
+  },
+  "ms-settings:privacy-микрофон": {
+    "Category": "Конфиденциальность",
+    "Page": "Микрофон"
+  },
+  "ms-settings:privacy-motion": {
+    "Category": "Конфиденциальность",
+    "Page": "Обнаружение"
+  },
+  "ms-settings:privacy-musiclibrary": {
+    "Category": "Конфиденциальность",
+    "Page": "Фонотека"
+  },
+  "ms-settings:privacy-notifications": {
+    "Category": "Конфиденциальность",
+    "Page": "Notifications"
+  },
+  "ms-settings:privacy-customdevices": {
+    "Category": "Конфиденциальность",
+    "Page": "Другие устройства"
+  },
+  "ms-settings:privacy-phonecalls": {
+    "Category": "Конфиденциальность",
+    "Page": "Звонки"
+  },
+  "ms-settings:privacy-pictures": {
+    "Category": "Конфиденциальность",
+    "Page": "Изображения"
+  },
+  "ms-settings:privacy-radios": {
+    "Category": "Конфиденциальность",
+    "Page": "Радиомодули"
+  },
+  "ms-settings:privacy-speech": {
+    "Category": "Конфиденциальность",
+    "Page": "Речь"
+  },
+  "ms-settings:privacy-tasks": {
+    "Category": "Конфиденциальность",
+    "Page": "Задачи"
+  },
+  "ms-settings:privacy-видео": {
+    "Category": "Конфиденциальность",
+    "Page": "Видео"
+  },
+  "ms-settings:privacy-voiceactivation": {
+    "Category": "Конфиденциальность",
+    "Page": "Активация голосовой связи"
+  },
+  "ms-settings:search": {
+    "Category": "Поиск (Search)",
+    "Page": "Поиск "
+  },
+  "ms-settings:search-moredetails": {
+    "Category": "Поиск (Search)",
+    "Page": "Поиск дополнительных сведений"
+  },
+  "ms-settings:search-permissions": {
+    "Category": "Поиск (Search)",
+    "Page": "Разрешения поиска"
+  },
+  "ms-settings:apps-volume": {
+    "Category": "Звук",
+    "Page": "Миксер томов"
+  },
+  "ms-settings:sound": {
+    "Category": "Звук",
+    "Page": "Звук"
+  },
+  "ms-settings:sound-devices": {
+    "Category": "Звук",
+    "Page": "Звуковые устройства"
+  },
+  "ms-settings:sound-defaultinputproperties": {
+    "Category": "Звук",
+    "Page": "Микрофон по умолчанию"
+  },
+  "ms-settings:sound-defaultoutputproperties": {
+    "Category": "Звук",
+    "Page": "Выходные данные звука по умолчанию"
+  },
+  "ms-settings:sound-properties?endpointId={0.0.0.000000}.": {
+    "Category": "Звук",
+    "Page": "Свойства звукового устройства"
+  },
+  "ms-settings:sound-properties?interfaceId=\\\\?\\SWD#MMDEVAPI#{3.0.0.00000003}.": {
+    "Category": "Звук",
+    "Page": "Свойства звукового устройства"
+  },
+  "ms-settings:surfacehub-accounts": {
+    "Category": "Surface Hub",
+    "Page": "Организация"
+  },
+  "ms-settings:surfacehub-sessioncleanup": {
+    "Category": "Surface Hub",
+    "Page": "Очистка сеанса"
+  },
+  "ms-settings:surfacehub-calling": {
+    "Category": "Surface Hub",
+    "Page": "Конференц-связь с командой"
+  },
+  "ms-settings:surfacehub-devicemanagement": {
+    "Category": "Surface Hub",
+    "Page": "Управление устройствами группы"
+  },
+  "ms-settings:surfacehub-welcome": {
+    "Category": "Surface Hub",
+    "Page": "Экран приветствия"
+  },
+  "ms-settings:about": {
+    "Category": "Система",
+    "Page": "О программе"
+  },
+  "ms-settings:display-advanced": {
+    "Category": "Система",
+    "Page": "Дополнительные параметры отображения"
+  },
+  "ms-settings:batterysaver": {
+    "Category": "Система",
+    "Page": "Экономия батареи"
+  },
+  "ms-settings:batterysaver-settings": {
+    "Category": "Система",
+    "Page": "Параметры экономии батареи"
+  },
+  "ms-settings:batterysaver-usagedetails": {
+    "Category": "Система",
+    "Page": "Использование батареи"
+  },
+  "ms-settings:clipboard": {
+    "Category": "Система",
+    "Page": "Буфер обмена"
+  },
+  "ms-settings:display": {
+    "Category": "Система",
+    "Page": "Отображать"
+  },
+  "ms-settings:savelocations": {
+    "Category": "Система",
+    "Page": "Расположения сохранения по умолчанию"
+  },
+  "ms-settings:screenrotation": {
+    "Category": "Система",
+    "Page": "Отображать"
+  },
+  "ms-settings:quietmomentsprespresentation": {
+    "Category": "Система",
+    "Page": "Дедупликация отображения"
+  },
+  "ms-settings:quietmomentsscheduleded": {
+    "Category": "Система",
+    "Page": "В эти часы"
+  },
+  "ms-settings:deviceencryption": {
+    "Category": "Система",
+    "Page": "Шифрование"
+  },
+  "ms-settings:energyrecommendations": {
+    "Category": "Система",
+    "Page": "Рекомендации по энергии"
+  },
+  "ms-settings:quiethours": {
+    "Category": "Система",
+    "Page": "Фокусировка внимания"
+  },
+  "ms-settings:display-advancedgraphics": {
+    "Category": "Система",
+    "Page": "Параметры графики"
+  },
+  "ms-settings:display-advancedgraphics-default": {
+    "Category": "Система",
+    "Page": "Параметры по умолчанию графики"
+  },
+  "ms-settings:multitasking": {
+    "Category": "Система",
+    "Page": "Multitasking"
+  },
+  "ms-settings:nightlight": {
+    "Category": "Система",
+    "Page": "Параметры ночного света"
+  },
+  "ms-settings:project": {
+    "Category": "Система",
+    "Page": "Проекция на этот компьютер"
+  },
+  "ms-settings:crossdevice": {
+    "Category": "Система",
+    "Page": "Общие возможности;"
+  },
+  "ms-settings:tabletmode": {
+    "Category": "Система",
+    "Page": "Режим планшета"
+  },
+  "ms-settings:notifications": {
+    "Category": "Система",
+    "Page": "Уведомления и действия"
+  },
+  "ms-settings:remotedesktop": {
+    "Category": "Система",
+    "Page": "Удаленный рабочий стол"
+  },
+  "ms-settings:phone": {
+    "Category": "Система",
+    "Page": "Номер телефона"
+  },
+  "ms-settings:powersleep": {
+    "Category": "Система",
+    "Page": "Питание и спящий режим"
+  },
+  "ms-settings:presence": {
+    "Category": "Система",
+    "Page": "Датчик присутствия"
+  },
+  "ms-settings:storagesense": {
+    "Category": "Система",
+    "Page": "Хранилище"
+  },
+  "ms-settings:storagepolicies": {
+    "Category": "Система",
+    "Page": "Смысл хранилища"
+  },
+  "ms-settings:storagerecommendations": {
+    "Category": "Система",
+    "Page": "Рекомендации по хранению данных"
+  },
+  "ms-settings:disksandvolumes": {
+    "Category": "Система",
+    "Page": "Диски и тома"
+  },
+  "ms-settings:dateandtime": {
+    "Category": "Время и язык",
+    "Page": "Дата и время"
+  },
+  "ms-settings:regionlanguage-jpnime": {
+    "Category": "Время и язык",
+    "Page": "Параметры IME Для Японии"
+  },
+  "ms-settings:regionformatting": {
+    "Category": "Время и язык",
+    "Page": "Область/регион"
+  },
+  "ms-settings:keyboard": {
+    "Category": "Время и язык",
+    "Page": "Язык"
+  },
+  "ms-settings:regionlanguage-chsime-pinyin": {
+    "Category": "Время и язык",
+    "Page": "Параметры pinyin IME"
+  },
+  "ms-settings:speech": {
+    "Category": "Время и язык",
+    "Page": "Речь"
+  },
+  "ms-settings:regionlanguage-chsime-wubi": {
+    "Category": "Время и язык",
+    "Page": "Параметры Wubi IME"
+  },
+  "ms-settings:regionlanguage-adddisplaylanguage": {
+    "Category": "Время и язык",
+    "Page": "Добавление языка отображения"
+  },
+  "ms-settings:regionlanguage-languageoptions": {
+    "Category": "Время и язык",
+    "Page": "Параметры языка"
+  },
+  "ms-settings:regionlanguage-setdisplaylanguage": {
+    "Category": "Время и язык",
+    "Page": "Настройка языка отображения"
+  },
+  "ms-settings:activation": {
+    "Category": "Обновление и безопасность",
+    "Page": "Активация"
+  },
+  "ms-settings:backup": {
+    "Category": "Обновление и безопасность",
+    "Page": "Резервное копирование"
+  },
+  "ms-settings:delivery-optimization": {
+    "Category": "Обновление и безопасность",
+    "Page": "Оптимизация доставки"
+  },
+  "ms-settings:findmydevice": {
+    "Category": "Обновление и безопасность",
+    "Page": "Поиск устройства"
+  },
+  "ms-settings:developers": {
+    "Category": "Обновление и безопасность",
+    "Page": "Для разработчиков"
+  },
+  "ms-settings:recovery": {
+    "Category": "Обновление и безопасность",
+    "Page": "Восстановление"
+  },
+  "ms-settings:signinoptions-launchsecuritykeyenrollment": {
+    "Category": "Обновление и безопасность",
+    "Page": "Запуск регистрации ключа безопасности"
+  },
+  "ms-settings:troubleshoot": {
+    "Category": "Обновление и безопасность",
+    "Page": "Устранение неполадок"
+  },
+  "ms-settings:windowsdefender": {
+    "Category": "Обновление и безопасность",
+    "Page": "Безопасность Windows"
+  },
+  "ms-settings:windowsinsider": {
+    "Category": "Обновление и безопасность",
+    "Page": "Программа предварительной оценки Windows"
+  },
+  "ms-settings:windowsupdate": {
+    "Category": "Обновление и безопасность",
+    "Page": "Центр обновления Windows"
+  },
+  "ms-settings:windowsupdate-activehours": {
+    "Category": "Обновление и безопасность",
+    "Page": "Обновл. Windows-активные часы"
+  },
+  "ms-settings:windowsupdate-options": {
+    "Category": "Обновление и безопасность",
+    "Page": "Параметры Обновл. Windows-Advanced"
+  },
+  "ms-settings:windowsupdate-optionalupdates": {
+    "Category": "Обновление и безопасность",
+    "Page": "Обновл. Windows-Необязательные обновления"
+  },
+  "ms-settings:windowsupdate-restartoptions": {
+    "Category": "Обновление и безопасность",
+    "Page": "Параметры Обновл. Windows-перезапуска"
+  },
+  "ms-settings:windowsupdate-seekerondemand": {
+    "Category": "Обновление и безопасность",
+    "Page": "Обновл. Windows-искатель по требованию"
+  },
+  "ms-settings:windowsupdate-history": {
+    "Category": "Обновление и безопасность",
+    "Page": "Журнал обновлений Обновл. Windows-View"
+  },
+  "ms-settings:workplace-provisioning": {
+    "Category": "Учетные записи пользователей",
+    "Page": "Подготовка"
+  },
+  "ms-settings:workplace-repairtoken": {
+    "Category": "Учетные записи пользователей",
+    "Page": "Маркер восстановления"
+  },
+  "ms-settings:provisioning": {
+    "Category": "Учетные записи пользователей",
+    "Page": "Подготовка"
+  },
+  "ms-settings:windowsanywhere": {
+    "Category": "Учетные записи пользователей",
+    "Page": "Windows Anywhere"
+  }
+}
